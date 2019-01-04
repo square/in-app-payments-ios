@@ -26,4 +26,4 @@ github "square/in-app-payments-ios"
 
 ### Getting Started
 
-For more information and setup instructions, please visit the [Square In-App Payments SDK page](https://squareup.com/developers).
+For more information and setup instructions, please visit the [Square In-App Payments iOS SDK page](https://docs.connect.squareup.com/payments/in-app-payments-sdk/build-on-ios).
