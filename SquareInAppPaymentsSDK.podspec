@@ -30,4 +30,9 @@ Pod::Spec.new do |s|
   s.source_files = 'SquareInAppPaymentsSDK.framework/**/*.{h,hh}'
   s.public_header_files = 'SquareInAppPaymentsSDK.framework/Headers/*.{h,hh}'
   s.vendored_frameworks = 'SquareInAppPaymentsSDK.framework'
+  s.script_phase = {
+      name: 'Remove Square In-App Payments SDK setup script for Cocoapod installs',
+      script: 'rm -f SquareInAppPaymentsSDK/SquareInAppPaymentsSDK.framework/setup',
+      execution_position: :before_compile
+  }
 end
