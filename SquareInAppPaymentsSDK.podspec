@@ -32,7 +32,8 @@ Pod::Spec.new do |s|
   s.vendored_frameworks = 'SquareInAppPaymentsSDK.framework'
   s.script_phase = {
       name: 'Remove Square In-App Payments SDK setup script for Cocoapod installs',
-      script: 'rm -f SquareInAppPaymentsSDK/SquareInAppPaymentsSDK.framework/setup',
+      # Only remove the setup script if the host app does not contain a build phase that executes it or the Xcode project file cannot be found.
+      script: '([ ! -f ../*/project.pbxproj ] || ! grep -i SquareInAppPaymentsSDK.framework/setup ../*/project.pbxproj )  && rm -f SquareInAppPaymentsSDK/SquareInAppPaymentsSDK.framework/setup',
       execution_position: :before_compile
   }
 end
