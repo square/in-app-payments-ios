@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = 'SquareInAppPaymentsSDK'
-  s.version = '1.0.1'
+  s.version = '1.1.1'
   s.license = {
     type: 'Square Developer License',
     text: <<-LICENSE
