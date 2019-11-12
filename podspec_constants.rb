@@ -22,5 +22,6 @@ THE SOFTWARE.
   HOMEPAGE_URL = 'https://github.com/square/in-app-payments-ios'
   AUTHORS = 'Square'
   IOS_DEPLOYMENT_TARGET = '10.0'
-  SOURCE = { http: "https://github.com/square/in-app-payments-ios/releases/download/#{VERSION}/SquareInAppPaymentsSDKs.framework.zip" }
+  CONTAINER_FOLDER_NAME = 'SquareInAppPaymentsSDKs.framework'
+  SOURCE = { http: "https://github.com/square/in-app-payments-ios/releases/download/#{VERSION}/#{CONTAINER_FOLDER_NAME}.zip" }
 end
