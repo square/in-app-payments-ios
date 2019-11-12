@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = SquareInAppPaymentsSDK::IOS_DEPLOYMENT_TARGET
 
   s.source = SquareInAppPaymentsSDK::SOURCE
-  s.source_files = "#{framework_filename}/**/*.{h,hh}"
-  s.public_header_files = "#{framework_filename}/Headers/*.{h,hh}"
-  s.vendored_frameworks = framework_filename
+  s.source_files = "#{SquareInAppPaymentsSDK::CONTAINER_FOLDER_NAME}/#{framework_filename}/**/*.{h,hh}"
+  s.public_header_files = "#{SquareInAppPaymentsSDK::CONTAINER_FOLDER_NAME}/#{framework_filename}/Headers/*.{h,hh}"
+  s.vendored_frameworks = "#{SquareInAppPaymentsSDK::CONTAINER_FOLDER_NAME}/#{framework_filename}"
 end
