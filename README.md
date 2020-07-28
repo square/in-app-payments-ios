@@ -1,3 +1,6 @@
+[![Cocoapods](https://img.shields.io/cocoapods/v/SquareInAppPaymentsSDK)](https://github.com/CocoaPods/CocoaPods)
+[![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
+
 # Square In-App Payments iOS SDK
 
 Build remarkable payments experiences in your own apps with Square’s [In-App Payments SDK](https://docs.connect.squareup.com/payments/in-app-payments-sdk/what-it-does). Use our pre-built UI to collect sensitive credit card details from your customers, while matching the look and feel of your app. Square takes care of all the complexity of payments - security, risk, and PCI compliance are managed for you, so that you can focus on building the rest of your application.
