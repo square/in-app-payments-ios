@@ -2,7 +2,7 @@ require './podspec_constants'
 
 Pod::Spec.new do |s|
   pod_name = 'SquareInAppPaymentsSDK'
-  framework_filename = "#{pod_name}.framework"
+  framework_filename = "#{pod_name}.xcframework"
 
   s.name = pod_name
   s.version = SquareInAppPaymentsSDK::VERSION
@@ -15,7 +15,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = SquareInAppPaymentsSDK::IOS_DEPLOYMENT_TARGET
 
   s.source = SquareInAppPaymentsSDK::SOURCE
-  s.source_files = "#{SquareInAppPaymentsSDK::CONTAINER_FOLDER_NAME}/#{framework_filename}/**/*.{h,hh}"
-  s.public_header_files = "#{SquareInAppPaymentsSDK::CONTAINER_FOLDER_NAME}/#{framework_filename}/Headers/*.{h,hh}"
   s.vendored_frameworks = "#{SquareInAppPaymentsSDK::CONTAINER_FOLDER_NAME}/#{framework_filename}"
 end
