@@ -1,5 +1,5 @@
 module SquareInAppPaymentsSDK
-  VERSION = '1.5.2'
+  VERSION = '1.5.3'
   LICENSE_TYPE = 'Square Developer License'
   LICENSE_TEXT = <<-LICENSE
 Copyright (c) 2018-present, Square, Inc. All rights reserved.
