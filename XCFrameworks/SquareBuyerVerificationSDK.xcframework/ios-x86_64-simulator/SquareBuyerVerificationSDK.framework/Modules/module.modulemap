@@ -1,0 +1,6 @@
+framework module SquareBuyerVerificationSDK {
+  umbrella header "SquareBuyerVerificationSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
