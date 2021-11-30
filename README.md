@@ -9,11 +9,21 @@ You can also pair our Square In-App Payments SDK with Square’s [Online Payment
 
 ## Installation
 
+### SPM
+
+[Swift Package Manager](https://www.swift.org/package-manager/) support is available for Swift 5.3 and above. Simply add the following to your top-level `dependencies` block within your `Package.swift`:
+
+```swift
+dependencies: [
+    .package(url: "https://github.com/square/in-app-payments-ios", .upToNextMajor(from: "1.6.0")),
+]
+```
+
 ### Cocoapods
 
 Install with [CocoaPods](http://cocoapods.org/) by adding the following to your Podfile:
 
-```
+```ruby
 use_frameworks!
 
 pod "SquareInAppPaymentsSDK"
