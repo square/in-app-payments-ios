@@ -22,6 +22,6 @@ THE SOFTWARE.
   HOMEPAGE_URL = 'https://github.com/square/in-app-payments-ios'
   AUTHORS = 'Square'
   IOS_DEPLOYMENT_TARGET = '12.0'
-  CONTAINER_FOLDER_NAME = 'SquareInAppPaymentsSDKs'
-  SOURCE = { http: "https://github.com/square/in-app-payments-ios/releases/download/#{VERSION}/#{CONTAINER_FOLDER_NAME}.zip" }
+  CONTAINER_FOLDER_NAME = 'XCFrameworks'
+  SOURCE = { :git => "https://github.com/square/in-app-payments-ios.git", :tag => VERSION }
 end
