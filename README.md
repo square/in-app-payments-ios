@@ -39,4 +39,14 @@ github "square/in-app-payments-ios"
 
 ### Getting Started
 
+## Add build phase to setup the SquareInAppPaymentsSDK and/or SquareBuyerVerificationSDK framework ##
+After downloading the framework using any of the above methods, follow the below instructions to complete the setup. 
+
+On your application targets’ Build Phases settings tab, click the + icon and choose New Run Script Phase. Create a Run Script in which you specify your shell (ex: /bin/sh), add the following contents to the script area below the shell:
+```
+FRAMEWORKS="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}"
+"${FRAMEWORKS}/SquareInAppPaymentsSDK.framework/setup"
+```
+
+
 For more information and setup instructions, please visit the [Square In-App Payments iOS SDK page](https://docs.connect.squareup.com/payments/in-app-payments-sdk/build-on-ios).
