@@ -28,6 +28,7 @@ Install with [CocoaPods](http://cocoapods.org/) by adding the following to your 
 ```ruby
 use_frameworks!
 pod "SquareInAppPaymentsSDK"
+pod "SquareBuyerVerificationSDK"
 ```
 
 #### Carthage
