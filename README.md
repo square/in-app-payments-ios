@@ -9,7 +9,9 @@ You can also pair our Square In-App Payments SDK with Square’s [Online Payment
 
 ## Installation
 
-### SPM
+### Add frameworks
+
+#### SPM
 
 [Swift Package Manager](https://www.swift.org/package-manager/) support is available for Swift 5.3 and above. Simply add the following to your top-level `dependencies` block within your `Package.swift`:
 
@@ -19,23 +21,32 @@ dependencies: [
 ]
 ```
 
-### Cocoapods
+#### Cocoapods
 
 Install with [CocoaPods](http://cocoapods.org/) by adding the following to your Podfile:
 
 ```ruby
 use_frameworks!
-
 pod "SquareInAppPaymentsSDK"
 ```
 
-### Carthage
+#### Carthage
 
 Install with [Carthage](https://github.com/Carthage/Carthage) by adding the following to your Cartfile:
 
 ```
 github "square/in-app-payments-ios"
 ```
+
+## Add build phase to setup the SquareInAppPaymentsSDK and/or SquareBuyerVerificationSDK framework ##
+After adding the framework using any of the above methods, follow the below instructions to complete the setup. 
+
+On your application targets’ Build Phases settings tab, click the + icon and choose New Run Script Phase. Create a Run Script in which you specify your shell (ex: /bin/sh), add the following contents to the script area below the shell:
+```
+FRAMEWORKS="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}"
+"${FRAMEWORKS}/SquareInAppPaymentsSDK.framework/setup"
+```
+
 
 ### Getting Started
 
