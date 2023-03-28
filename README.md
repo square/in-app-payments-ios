@@ -64,7 +64,7 @@ if [ -f "$SETUP_SCRIPT" ]; then
 fi
 ```
 
-**Important Note:** The build phase script requires you to reset your Swift Package cache when switching from a debug build to a release build (archiving) or vice versa. This helps prevent errors during building or releasing. You can reset your cache by using `File -> Packages -> Reset Package Cache`in Xcode.
+**Important Note:** The build phase script requires you to reset your Swift Package Caches when switching from a debug build to a release build (archiving) or vice versa. This helps prevent errors during building or releasing. You can reset your cache by using `File -> Packages -> Reset Package Caches` in Xcode.
 
 ### iPhone and iPad apps on Mac with Apple silicon
 
