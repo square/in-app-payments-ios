@@ -41,7 +41,7 @@ FRAMEWORKS="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}"
 
 ## Swift Package Manager
 
-[Swift Package Manager](https://www.swift.org/package-manager/) support is available for Swift 5.3 and above but is currently not the recommended method for using Square In-App Payments.
+[Swift Package Manager](https://www.swift.org/package-manager/) support is available for Swift 5.3 and above but is currently not the recommended method for adding the Square In-App Payments SDK dependency.
 
 ### 1. Add the following to your top-level `dependencies` block within your `Package.swift`:
 
