@@ -39,6 +39,8 @@ FRAMEWORKS="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}"
 "${FRAMEWORKS}/SquareInAppPaymentsSDK.framework/setup"
 ```
 
+Make sure the above run script is below any `[CP] Embed Pods Frameworks` or `Embed Frameworks` Build Phase.
+
 ## Swift Package Manager
 
 [Swift Package Manager](https://www.swift.org/package-manager/) support is available for Swift 5.3 and above but is currently not the recommended method for adding the Square In-App Payments SDK dependency.
@@ -47,7 +49,7 @@ FRAMEWORKS="${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}"
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/square/in-app-payments-ios", .upToNextMajor(from: "1.6.0")),
+    .package(url: "https://github.com/square/in-app-payments-ios", .upToNextMajor(from: "1.6.1")),
 ]
 ```
 
@@ -62,7 +64,11 @@ if [ -f "$SETUP_SCRIPT" ]; then
 fi
 ```
 
-**Note:** Because of the build phase script, when switching between a debug build and release build (archiving), deleting the Derived Data may be necessary to prevent errors during building or releasing.
+**Important Note:** The build phase script requires you to reset your Swift Package cache when switching from a debug build to a release build (archiving) or vice versa. This helps prevent errors during building or releasing. You can reset your cache by using `File -> Packages -> Reset Package Cache`in Xcode.
+
+### iPhone and iPad apps on Mac with Apple silicon
+
+Square In-App Payments iOS SDK currently does not support iPhone and iPad apps on Mac with Apple silicon.
 
 ### Getting Started
 
