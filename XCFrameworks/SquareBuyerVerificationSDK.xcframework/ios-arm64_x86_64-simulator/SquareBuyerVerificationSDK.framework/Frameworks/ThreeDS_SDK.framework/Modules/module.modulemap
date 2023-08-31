@@ -6,6 +6,6 @@ framework module ThreeDS_SDK {
 }
 
 module ThreeDS_SDK.Swift {
-    header "ThreeDS_SDK-Swift.h"
-    requires objc
+  header "ThreeDS_SDK-Swift.h"
+  requires objc
 }
