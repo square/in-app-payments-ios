@@ -1,6 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
 // swift-module-flags: -target x86_64-apple-ios11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ThreeDS_SDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
 import AdSupport
 import CommonCrypto
 import CoreLocation
@@ -13,6 +14,7 @@ import WebKit
 #if compiler(>=5.5) && canImport(_Concurrency)
 import _Concurrency
 #endif
+import _StringProcessing
 import os.log
 import os
 @objc(NCALogLevel) public enum LogLevel : Swift.Int, Swift.RawRepresentable {
