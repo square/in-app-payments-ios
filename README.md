@@ -1,5 +1,5 @@
 [![Cocoapods](https://img.shields.io/cocoapods/v/SquareInAppPaymentsSDK)](https://github.com/CocoaPods/CocoaPods)
-[![Swift Package Manager compatible](https://img.shields.io/badge/Swift Package Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
+[![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
 # Square In-App Payments iOS SDK
