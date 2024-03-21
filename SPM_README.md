@@ -4,7 +4,7 @@
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/square/in-app-payments-ios", .upToNextMajor(from: "1.6.2")),
+    .package(url: "https://github.com/square/in-app-payments-ios", .upToNextMajor(from: "1.6.3")),
 ]
 ```
 
