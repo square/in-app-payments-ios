@@ -1,4 +1,4 @@
-[![Cocoapods](https://img.shields.io/cocoapods/v/SquareInAppPaymentsSDK)](https://github.com/CocoaPods/CocoaPods)
+[![CocoaPods](https://img.shields.io/cocoapods/v/SquareInAppPaymentsSDK)](https://github.com/CocoaPods/CocoaPods)
 [![Swift Package Manager compatible](https://img.shields.io/badge/Swift%20Package%20Manager-compatible-4BC51D.svg?style=flat)](https://github.com/apple/swift-package-manager)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage)
 
@@ -16,7 +16,7 @@ You can also pair our Square In-App Payments SDK with Square’s [Online Payment
 
 ### 1. Add frameworks
 
-#### Cocoapods
+#### CocoaPods
 
 Install with [CocoaPods](http://cocoapods.org/) by adding the following to your Podfile:
 
@@ -54,7 +54,6 @@ SETUP_SCRIPT=${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}"/SquareInAppPayment
 if [ -f "$SETUP_SCRIPT" ]; then
   "$SETUP_SCRIPT"
 fi
-
 ```
 
 Make sure the above run script is below any `[CP] Embed Pods Frameworks` or `Embed Frameworks` Build Phase.
