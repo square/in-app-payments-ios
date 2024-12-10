@@ -59,6 +59,19 @@ for FRAMEWORK_NAME in "${IAP_SDK_FRAMEWORKS[@]}"; do
   fi
 done
 
+# Codesign
+ALL_IAP_SDK_FRAMEWORKS=("CorePaymentCard.framework" "ThreeDS_SDK.framework")
+ALL_IAP_SDK_FRAMEWORKS+=(${IAP_SDK_FRAMEWORKS[@]})
+for FRAMEWORK in "${ALL_IAP_SDK_FRAMEWORKS[@]}"; do
+  find "${CODESIGNING_FOLDER_PATH}/Frameworks" -name "${FRAMEWORK}" | while read -r FILENAME; do
+    codesign --force --sign "${EXPANDED_CODE_SIGN_IDENTITY}" "$FILENAME"
+    if [ $? != 0 ]; then
+      echo "error: Code signing failed."
+      exit 1
+    fi
+  done
+done
+
 IFS=$OLDIFS
 
 # Don't choke if projects or targets have spaces in the name
@@ -69,14 +82,5 @@ IFS=$(echo "")
 if [ "$ACTION" = "install" ]; then
   rm -- "$0"
 fi
-
-# Codesign
-find "${CODESIGNING_FOLDER_PATH}/Frameworks" -name "*.framework" | while read -r FILENAME; do
-  codesign --force --sign "${EXPANDED_CODE_SIGN_IDENTITY}" "$FILENAME"
-  if [ $? != 0 ]; then
-    echo "error: Code signing failed."
-    exit 1
-  fi
-done
 
 IFS=$OLDIFS
