@@ -26,7 +26,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		aH4BlEbtXmF+Te3kBQeQbOlEJrw=
+		KbLJExXFplMOLPtCacOEN71ZDxM=
 		</data>
 		<key>BrandingZoneView.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>ChallengeInfoView.nib</key>
 		<data>
-		s5SMZc09Oy/Udd0gSX8mpPK+v9w=
+		vZwVN0A63szJ8zC1X6mgrtjjRNE=
 		</data>
 		<key>ExpandableInfoZoneView.nib</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>ExpandableInformationView.nib</key>
 		<data>
-		ihUi6zDq5wxD13FduahoLzXjklU=
+		a90PIecHjqqWOQ4evxIKaXe+5Qg=
 		</data>
 		<key>FooterStackView.nib</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Za19Y/yz7bIOg0DBnSOw+cHyUOA=
+		ywkJglFxYgB9ZwMSUWv41rBDcFs=
 		</data>
 		<key>InformationView.nib</key>
 		<data>
@@ -79,10 +79,6 @@
 		<key>OobView.nib</key>
 		<data>
 		s5r+cFkbHq1sQjAnAmaivbkkiSM=
-		</data>
-		<key>PrivacyInfo.xcprivacy</key>
-		<data>
-		qskfk5qssgV/i1MjhbStTWrvSVs=
 		</data>
 		<key>ProcessingZoneTextView.nib</key>
 		<data>
@@ -98,11 +94,11 @@
 		</data>
 		<key>SelectView.nib</key>
 		<data>
-		Jsn3r7fEQqiPnw8B6xT5AIoHbug=
+		18z0LsDYcWlREUbNRUVdCcEtNmM=
 		</data>
 		<key>SelectionView.nib</key>
 		<data>
-		+S9SisYIP1tIRieSKiHNGUc8JMs=
+		SWrg4IzIPihySf2L+wJnQWCuCoM=
 		</data>
 		<key>WhitelistingZone.nib</key>
 		<data>
@@ -126,11 +122,11 @@
 		</data>
 		<key>challengeVC.storyboardc/WUm-ax-p1H-view-Hja-72-DgH.nib</key>
 		<data>
-		ZDzPyzoeOmYIqbFc01+DiwkhPIY=
+		OOhwP+p+FIyEnoWEz9hXyNUMXB8=
 		</data>
 		<key>challengeVC.storyboardc/challengeVC.nib</key>
 		<data>
-		k6bkRtjCiAps8QkhiVR3evSBL3o=
+		1N/hvT3kvYr/qDQnzD8jB/dmMYc=
 		</data>
 		<key>checkbox@3x.png</key>
 		<data>
@@ -210,7 +206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2RmG7oZlczvjaBwmc6/2xCEu63Iuo8x2PK7WWWrl8Lc=
+			dzEVvD/OAAQGToBAG0A/DfTr//RbnBXWchRGTEIf0nM=
 			</data>
 		</dict>
 		<key>BrandingZoneView.nib</key>
@@ -245,7 +241,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qgpW1QNTBFymHT/WYiH5b5cAvhZ4f4Vvr/hpWzXOQv8=
+			UsYQJom24WY2DoQIofJKOS0q/Ww/Gb7apSJLpf15Sq4=
 			</data>
 		</dict>
 		<key>ExpandableInfoZoneView.nib</key>
@@ -259,7 +255,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			67Wo008lWTKiAmpEfsJtoU8ucq5EYLcg86GnoCLt00g=
+			QPyKOSZA0WyOYTHKUrO70pZLlFKFoR3bJ1fe/yBTAtY=
 			</data>
 		</dict>
 		<key>FooterStackView.nib</key>
@@ -297,13 +293,6 @@
 			bUmuD4XE4VRTqDwGpLOiFlfgNUfQpasi/rMTPw91GRg=
 			</data>
 		</dict>
-		<key>PrivacyInfo.xcprivacy</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OYWc9/zlCKA5FiI2RbNeeX93E7g8o1InDM/ek2Ic0uI=
-			</data>
-		</dict>
 		<key>ProcessingZoneTextView.nib</key>
 		<dict>
 			<key>hash2</key>
@@ -329,14 +318,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ORX8gtrDqqVqqfgXEWMED9kzAKjFkD1u0dV62cMBoKk=
+			hOalQFqdeeGI5ssd5MLQahN93oWWRr/KOieefr+4uhg=
 			</data>
 		</dict>
 		<key>SelectionView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gPKLXnI7tmUAVyUu0SfLXtaoZTHhJvR+fBEpckXZZLM=
+			Fx0Fhm04QrcxkF1vCqsmmfLF3lFQcDkTnXygzDf6Hfg=
 			</data>
 		</dict>
 		<key>WhitelistingZone.nib</key>
@@ -378,14 +367,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Zwl5mpFPJMKigrXCiUb/QkxRHXhVlC7+5wG7ypoRMag=
+			6VDvPBTx5dZT393EkRhwpmil9bnLviJgcZ2vd2/I+xs=
 			</data>
 		</dict>
 		<key>challengeVC.storyboardc/challengeVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hUw1BKjYYZSEBoTdRp5O5PFzRrQsTaJ6BH01d4MWkQk=
+			Oq6qaXDjSncBSOT/ObR1PWmvf+PpPR22v+MdlE9onwY=
 			</data>
 		</dict>
 		<key>checkbox@3x.png</key>

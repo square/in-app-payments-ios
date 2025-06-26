@@ -10,7 +10,7 @@
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/CorePaymentCardResources.bundle/Info.plist</key>
 		<data>
-		4qGzYZjUgez3xLx+J6L4fa4B6gU=
+		/brUmTQxIlQ+hBa4XT4cROz4wwg=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -27,7 +27,7 @@
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCard</key>
 		<data>
-		jjgO6SlvIG4OV5cwaFT1J5Y5uf4=
+		YsYA+DDcPLK7A2SWoJlD1JXLWCU=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/CorePaymentCardResources-Info.plist</key>
 		<data>
@@ -35,7 +35,7 @@
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/Info.plist</key>
 		<data>
-		KWsroaHZWdBi8c8CCRsP8ylJY0w=
+		h3jJf6x1LES408tX8ijgtnrTPsk=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -52,11 +52,11 @@
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/Info.plist</key>
 		<data>
-		6qHFfMvgZ25dJvehqQiTZiRVMl8=
+		cZquxjeaTMfOHFfidy4zqYPmWUI=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/_CodeSignature/CodeResources</key>
 		<data>
-		5uXyiYiuG+pKi+kgyPXnbnAfe7o=
+		riqzclxNJlivF/pepx4g91Y2Jn4=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Headers/PKPaymentRequest+Square.h</key>
 		<data>
@@ -104,7 +104,7 @@
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Headers/SQIPSecureRemoteCommerce.h</key>
 		<data>
-		9UPwBne3Vzze33/CuKWirenQeAE=
+		AIvZB53HJ/+qcHdekNy/Gonm2bE=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Headers/SQIPSecureRemoteCommerceParameters.h</key>
 		<data>
@@ -116,11 +116,11 @@
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Headers/SquareInAppPaymentsSDK-umbrella.h</key>
 		<data>
-		4WJlAOoZWK9/BgX20Ls/NEOLFkU=
+		c8kxaRDAWqyNlG8u8+babGJQoRM=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Info.plist</key>
 		<data>
-		pMQ4QktmXEJmQdnu/Aj/jwcsUNQ=
+		rpwePOQdx7EAwYNgsQ69tDTnyDw=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -132,20 +132,20 @@
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/Assets.car</key>
 		<data>
-		fLcFmYaTqEiG0PNRyXn7eCShxy0=
+		SaTGRz/JcW5VYI3NtjNVMzvAu+I=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GbdwND1p21VsXxz0Z0T9CYghCOU=
+			undOYkn1EhVQB7qM00rp9w60fzM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/Info.plist</key>
 		<data>
-		mWBKA5SSk3CXMhq/hEJKVrVxoQ8=
+		SL2qZrQ420tkgMOfU4k10X2PoWo=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -248,11 +248,11 @@
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/Assets.car</key>
 		<data>
-		IszHXCcpbmO2GazRvAaQXgxCqes=
+		RkSiMgwGFEcXfsrKaKHxaZ7E2k0=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/Info.plist</key>
 		<data>
-		x/Zv0yOJvUTcSf0YMy83YtBn3tY=
+		FWwLy6GrswV9B24Zppt28vdPOzY=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -303,7 +303,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			chncELX9L3TZrYo05rJL6h8SGUI=
+			qCqiJUe8yLMYbe/MjjP4a8z3Yxk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -355,7 +355,7 @@
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPNetworkingResources.bundle/Info.plist</key>
 		<data>
-		TI7S6Fz+3bPLV25DstbVDCJHzsc=
+		cccfI17nc9vIQzqwSmzU9+FMY0s=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPNetworkingResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -462,15 +462,15 @@
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SquareInAppPaymentsSDK</key>
 		<data>
-		EbUqIEmRLTvmEM4Z/0R1x+PJ0Ew=
+		3E3JjRzciUsQLdFNQ4JSDjxFOZo=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		0cvc2mGPlpMKMRQD5OO9SuQNmUc=
+		f7y1TBbFidNPnXr6GEcoYA1mXYU=
 		</data>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/setup</key>
 		<data>
-		q9xKltO1HMT60IeMO3xjcNi0uXc=
+		IgE010EuSJgB5o2T6W8ZDoEte0g=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/CorePaymentCardResources.bundle/CorePaymentCardResources-Info.plist</key>
 		<data>
@@ -478,7 +478,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/CorePaymentCardResources.bundle/Info.plist</key>
 		<data>
-		+Cx4CibMTTxINvN9ntWZxVeizHc=
+		u2agwIRTLyabMK74r5Co2brBUsw=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -495,7 +495,7 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCard</key>
 		<data>
-		xQyUH/jKeKlptxN4kFHrFBjFNjk=
+		taW+fCQ8zzML2H48XWkn2F19odQ=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/CorePaymentCardResources-Info.plist</key>
 		<data>
@@ -503,7 +503,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/Info.plist</key>
 		<data>
-		HbE73DsuvVZ5cWhf1HVQiANMwQM=
+		+xmxi6ijH+qmQzjk2fly7k4WruM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -520,11 +520,11 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/Info.plist</key>
 		<data>
-		yxeGq228QOu8glEykEjZ/s9bGp8=
+		ywUsvxb5bJKvJgwZBUinmaWbgjg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/_CodeSignature/CodeResources</key>
 		<data>
-		xOXe/cE5/n4HAVfsgijOUX2us9A=
+		aJQ1XjiFXgnFoSV0QibK4cof+i0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Headers/PKPaymentRequest+Square.h</key>
 		<data>
@@ -572,7 +572,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Headers/SQIPSecureRemoteCommerce.h</key>
 		<data>
-		9UPwBne3Vzze33/CuKWirenQeAE=
+		AIvZB53HJ/+qcHdekNy/Gonm2bE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Headers/SQIPSecureRemoteCommerceParameters.h</key>
 		<data>
@@ -584,11 +584,11 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Headers/SquareInAppPaymentsSDK-umbrella.h</key>
 		<data>
-		4WJlAOoZWK9/BgX20Ls/NEOLFkU=
+		c8kxaRDAWqyNlG8u8+babGJQoRM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Info.plist</key>
 		<data>
-		Axmjos9a+sqwEBvaEDYsbfEm/x8=
+		t5Wp34Yhzz0MsSk4CYCO9GOxdC0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Modules/module.modulemap</key>
 		<data>
@@ -600,20 +600,20 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/Assets.car</key>
 		<data>
-		fLcFmYaTqEiG0PNRyXn7eCShxy0=
+		SaTGRz/JcW5VYI3NtjNVMzvAu+I=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GbdwND1p21VsXxz0Z0T9CYghCOU=
+			undOYkn1EhVQB7qM00rp9w60fzM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/Info.plist</key>
 		<data>
-		4uBRuXIJ0VxWKJvjZ7VvxSzPq8s=
+		gozE5745irG3uE91lm+UkYyxS68=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -716,11 +716,11 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/Assets.car</key>
 		<data>
-		IszHXCcpbmO2GazRvAaQXgxCqes=
+		RkSiMgwGFEcXfsrKaKHxaZ7E2k0=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/Info.plist</key>
 		<data>
-		EJ+aSvLrtZ5Lyvsn/ZEKNZS2dxE=
+		7yFj+C2TomDluLFZ924RoKTuoyY=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -771,7 +771,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			chncELX9L3TZrYo05rJL6h8SGUI=
+			qCqiJUe8yLMYbe/MjjP4a8z3Yxk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -823,7 +823,7 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPNetworkingResources.bundle/Info.plist</key>
 		<data>
-		hTR5ukZ+wK/FLUilXTyi8vr6xuI=
+		G7je71O/OeG/fVfBJxx4ho4Pp/U=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPNetworkingResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -930,15 +930,15 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SquareInAppPaymentsSDK</key>
 		<data>
-		LdhXVCTqf0UtVIUsg4Dd2IvPVQU=
+		KrBsCMKoYGSh50+xIHcD9Y+4ATg=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		eJAsxOnt03fKNyjSJhDvfaD6wis=
+		CQcpfJV2+K21bGpb9DjYTvqvlXM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/setup</key>
 		<data>
-		q9xKltO1HMT60IeMO3xjcNi0uXc=
+		IgE010EuSJgB5o2T6W8ZDoEte0g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -958,11 +958,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4qGzYZjUgez3xLx+J6L4fa4B6gU=
+			/brUmTQxIlQ+hBa4XT4cROz4wwg=
 			</data>
 			<key>hash2</key>
 			<data>
-			aT4UKe4eBo5xk8byOnJDaC/nM3+sNh8/uY2wuej0woU=
+			adJa5nVJGOPK4KZNKUgVXYk52Y0gvVx7QCMLqsWBMiU=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -993,11 +993,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jjgO6SlvIG4OV5cwaFT1J5Y5uf4=
+			YsYA+DDcPLK7A2SWoJlD1JXLWCU=
 			</data>
 			<key>hash2</key>
 			<data>
-			t0XQk7T/Y4KSVx3cSpP2KJr1Tflo4NaYissdip/Hn7U=
+			fjqVJte+IZhtIHfVje0zDBwFUXViL0tFG4CAbHkbAf8=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/CorePaymentCardResources-Info.plist</key>
@@ -1015,11 +1015,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KWsroaHZWdBi8c8CCRsP8ylJY0w=
+			h3jJf6x1LES408tX8ijgtnrTPsk=
 			</data>
 			<key>hash2</key>
 			<data>
-			gAWvf2343I41IUUdpFx1H/HnoSf2Ug16qcxhDP6ErHE=
+			hNMxm9gsoAv5NZ/LaSdURc1xLLp5YS7JxUJme2ooZXQ=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1050,22 +1050,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6qHFfMvgZ25dJvehqQiTZiRVMl8=
+			cZquxjeaTMfOHFfidy4zqYPmWUI=
 			</data>
 			<key>hash2</key>
 			<data>
-			rHZHil6xbdkVHp9s8LSX+QpSTZ4i944nzRbKPRxqJbI=
+			e/uDAY0hlrZjY5kVquYYPjrDLmJZyUmpHQaNZnl7Cko=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5uXyiYiuG+pKi+kgyPXnbnAfe7o=
+			riqzclxNJlivF/pepx4g91Y2Jn4=
 			</data>
 			<key>hash2</key>
 			<data>
-			abiPRdm/oUAoWtG1xx00s7E2c5QKOypyibNA4pz8z20=
+			ZkqTDMzu9SR7kfhPDCWi6/4KYycEPmrDDti0VEHCRTQ=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Headers/PKPaymentRequest+Square.h</key>
@@ -1193,11 +1193,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9UPwBne3Vzze33/CuKWirenQeAE=
+			AIvZB53HJ/+qcHdekNy/Gonm2bE=
 			</data>
 			<key>hash2</key>
 			<data>
-			6SSq+dBbq6+gFcoWLsYK84G1dGlFo600ZPUrZK/huZ8=
+			4LQbXPuGw76DgMf8g3lCs9fZ+GEJpYvA8ST6mUcqsqk=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Headers/SQIPSecureRemoteCommerceParameters.h</key>
@@ -1226,22 +1226,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4WJlAOoZWK9/BgX20Ls/NEOLFkU=
+			c8kxaRDAWqyNlG8u8+babGJQoRM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VZwf0O/uTDE7i8LXF8WFoT5QbVxxyIk0BKzJOd9oBBk=
+			M1ICv77SLJmDMUMLu7qqFvyMRhQ66dtndZY1i1aBMAU=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			pMQ4QktmXEJmQdnu/Aj/jwcsUNQ=
+			rpwePOQdx7EAwYNgsQ69tDTnyDw=
 			</data>
 			<key>hash2</key>
 			<data>
-			zAt8ixK8/LYAVH3jPcRwUrghWFwDz4Z98vSGnRw/UAo=
+			dA/RzzP1guLoMoKP/nET1vWjKcXiqZJVALGp49d7NFE=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/Modules/module.modulemap</key>
@@ -1270,22 +1270,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fLcFmYaTqEiG0PNRyXn7eCShxy0=
+			SaTGRz/JcW5VYI3NtjNVMzvAu+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mql7by4KFeZxO+zH0pvvuJw4zM/JiIFjUZ54oCifiaY=
+			uz4QgsAC6vZtchAQKg/AF3VuRrvzG9S9WIFJVeErCLc=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GbdwND1p21VsXxz0Z0T9CYghCOU=
+			undOYkn1EhVQB7qM00rp9w60fzM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HahbOQf+U005ep7mFfbOnTH11cu3+OHvFd8tpCR+8eE=
+			iIHg9J3H6T0zaNvpKOQvNGnX6nKmAsrUQ8NjHbvWCZM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1294,11 +1294,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mWBKA5SSk3CXMhq/hEJKVrVxoQ8=
+			SL2qZrQ420tkgMOfU4k10X2PoWo=
 			</data>
 			<key>hash2</key>
 			<data>
-			hSjHmftwH5vV1+c2BtxzDqQVx1JxVfERaHMlK01+ZGg=
+			YzfOyZi3GNxp43iTWNhXn0dhiMFptwZ2jXbZHBxzZpY=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -1448,22 +1448,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IszHXCcpbmO2GazRvAaQXgxCqes=
+			RkSiMgwGFEcXfsrKaKHxaZ7E2k0=
 			</data>
 			<key>hash2</key>
 			<data>
-			tmu3+eNNQxviur7PVy4JQuEcbbKwl+XmYAfjtyRJu08=
+			53A5VVmEYD6YuIE7vD8AqvEdYZJggq/JgWjQpH3BFA0=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x/Zv0yOJvUTcSf0YMy83YtBn3tY=
+			FWwLy6GrswV9B24Zppt28vdPOzY=
 			</data>
 			<key>hash2</key>
 			<data>
-			VDMQx8+IpoMfaMu0CCNv3thswDjvW5ozmADDr9NpLm4=
+			NcYrtYFju1Y2ISKVAO/4ozRbopwokZkazr591+7k6i0=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -1535,11 +1535,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			chncELX9L3TZrYo05rJL6h8SGUI=
+			qCqiJUe8yLMYbe/MjjP4a8z3Yxk=
 			</data>
 			<key>hash2</key>
 			<data>
-			bslOTq4l6G/N2aCvbP7VpBmKvws30jKdYzSRp0neFKI=
+			bluYaS0HwK1sY3kiosyi4dDec3m0/6onz1lDyak6ozY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1613,11 +1613,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TI7S6Fz+3bPLV25DstbVDCJHzsc=
+			cccfI17nc9vIQzqwSmzU9+FMY0s=
 			</data>
 			<key>hash2</key>
 			<data>
-			/8QdWdwWM23AL7LAzWVrf9CXSBOwYlx/D+3/xfvSxf0=
+			sEeg/3fnccd9DbY6Hy6jhgsoIGhHK67uF/Kl3jAaLNA=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/SQIPNetworkingResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -1778,33 +1778,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EbUqIEmRLTvmEM4Z/0R1x+PJ0Ew=
+			3E3JjRzciUsQLdFNQ4JSDjxFOZo=
 			</data>
 			<key>hash2</key>
 			<data>
-			goLmqYNNs1I7sqqoEXngHjh6E1fH1Y3upETZ7iRD/hg=
+			0zS7cKMmIR+nDUqH08xeRHlEviXv8jxv1sdt02SdgOA=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0cvc2mGPlpMKMRQD5OO9SuQNmUc=
+			f7y1TBbFidNPnXr6GEcoYA1mXYU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ch+Eq06qoq3ZInxPmaKI5TapLJBPM2NUueeVjpiQC/k=
+			aIncReea8ZZBVBRbG5dW+UX4RJIr7aHGUzygZjr3X5o=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareInAppPaymentsSDK.framework/setup</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q9xKltO1HMT60IeMO3xjcNi0uXc=
+			IgE010EuSJgB5o2T6W8ZDoEte0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			MBhrJJcfB6Cs8bjQjakktdvnHHvt/feibtL226GJ6IQ=
+			IwdzxOMKy09IgRsth4Vbvp0CQ6TgU1S2lnqVT7IZ4d0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/CorePaymentCardResources.bundle/CorePaymentCardResources-Info.plist</key>
@@ -1822,11 +1822,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+Cx4CibMTTxINvN9ntWZxVeizHc=
+			u2agwIRTLyabMK74r5Co2brBUsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			DitYFb+OB18SFs0As1RQ5kHRdIed0HreJnxWggqDBZM=
+			d1lNX2VxUDLWh+2PA3sid92K42uN8PqX1Q/+vZa7zRU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1857,11 +1857,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xQyUH/jKeKlptxN4kFHrFBjFNjk=
+			taW+fCQ8zzML2H48XWkn2F19odQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			BZoTWn9hFA3DSIDpQBqSf5iQw7XF6VWCWR3e6CSleys=
+			hm378iupvJMuYbhBDWjfbhMZybq/kNq8IO33gFgctLg=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/CorePaymentCardResources-Info.plist</key>
@@ -1879,11 +1879,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HbE73DsuvVZ5cWhf1HVQiANMwQM=
+			+xmxi6ijH+qmQzjk2fly7k4WruM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wk61kmOLkHcrZmavpfNzxub8DnXcNVJxKvlin//q3dQ=
+			pUJOgtDus9bHPp/o+8z8pbxpTeco+uaVfVlsBMfv/6c=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -1914,22 +1914,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yxeGq228QOu8glEykEjZ/s9bGp8=
+			ywUsvxb5bJKvJgwZBUinmaWbgjg=
 			</data>
 			<key>hash2</key>
 			<data>
-			9ln75HWX7H+8YF6HJd0EV6TedzaynD9olwAU8a5GXAE=
+			3sIsxoqMLkb5TSMt4rfXvZGPiFrFeQ4vAIQEoBd0XhY=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Frameworks/CorePaymentCard.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xOXe/cE5/n4HAVfsgijOUX2us9A=
+			aJQ1XjiFXgnFoSV0QibK4cof+i0=
 			</data>
 			<key>hash2</key>
 			<data>
-			rRiMmcv7dVgeIdSvg3G8HrPfcQk/DOvj01TwDycubyQ=
+			4Eg7MIivU2y/H+YcFIijT6E34UMrCmIbYpIAlvBIIFs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Headers/PKPaymentRequest+Square.h</key>
@@ -2057,11 +2057,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9UPwBne3Vzze33/CuKWirenQeAE=
+			AIvZB53HJ/+qcHdekNy/Gonm2bE=
 			</data>
 			<key>hash2</key>
 			<data>
-			6SSq+dBbq6+gFcoWLsYK84G1dGlFo600ZPUrZK/huZ8=
+			4LQbXPuGw76DgMf8g3lCs9fZ+GEJpYvA8ST6mUcqsqk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Headers/SQIPSecureRemoteCommerceParameters.h</key>
@@ -2090,22 +2090,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4WJlAOoZWK9/BgX20Ls/NEOLFkU=
+			c8kxaRDAWqyNlG8u8+babGJQoRM=
 			</data>
 			<key>hash2</key>
 			<data>
-			VZwf0O/uTDE7i8LXF8WFoT5QbVxxyIk0BKzJOd9oBBk=
+			M1ICv77SLJmDMUMLu7qqFvyMRhQ66dtndZY1i1aBMAU=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Axmjos9a+sqwEBvaEDYsbfEm/x8=
+			t5Wp34Yhzz0MsSk4CYCO9GOxdC0=
 			</data>
 			<key>hash2</key>
 			<data>
-			wUc8o5wGG956z4k77Uo5NgiAXRlodYeqUw9INlbJgJk=
+			RyKzBw2h44HEj8tVHi6mSWHPT4Vmh8o7H54pFkFeTlk=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/Modules/module.modulemap</key>
@@ -2134,22 +2134,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fLcFmYaTqEiG0PNRyXn7eCShxy0=
+			SaTGRz/JcW5VYI3NtjNVMzvAu+I=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mql7by4KFeZxO+zH0pvvuJw4zM/JiIFjUZ54oCifiaY=
+			uz4QgsAC6vZtchAQKg/AF3VuRrvzG9S9WIFJVeErCLc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GbdwND1p21VsXxz0Z0T9CYghCOU=
+			undOYkn1EhVQB7qM00rp9w60fzM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HahbOQf+U005ep7mFfbOnTH11cu3+OHvFd8tpCR+8eE=
+			iIHg9J3H6T0zaNvpKOQvNGnX6nKmAsrUQ8NjHbvWCZM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2158,11 +2158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4uBRuXIJ0VxWKJvjZ7VvxSzPq8s=
+			gozE5745irG3uE91lm+UkYyxS68=
 			</data>
 			<key>hash2</key>
 			<data>
-			dVvl5Bg8fuOxQQ03LUPLLljh5JhAgDfrMavm8QfzXso=
+			anl5phoeyuQsDzZ0g//fp8zbIpmX/PK7n6NopHmyHJs=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPAssetFinderResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -2312,22 +2312,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IszHXCcpbmO2GazRvAaQXgxCqes=
+			RkSiMgwGFEcXfsrKaKHxaZ7E2k0=
 			</data>
 			<key>hash2</key>
 			<data>
-			tmu3+eNNQxviur7PVy4JQuEcbbKwl+XmYAfjtyRJu08=
+			53A5VVmEYD6YuIE7vD8AqvEdYZJggq/JgWjQpH3BFA0=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EJ+aSvLrtZ5Lyvsn/ZEKNZS2dxE=
+			7yFj+C2TomDluLFZ924RoKTuoyY=
 			</data>
 			<key>hash2</key>
 			<data>
-			plcpMguRaKlasLWMX5DgkMdlwjDubh5Nzu7WGfqF8ig=
+			8XOzlx5nWjmYURWbUEFpb41f2B4IZCfAqsXwPCFqNks=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPCardEntryViewResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -2399,11 +2399,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			chncELX9L3TZrYo05rJL6h8SGUI=
+			qCqiJUe8yLMYbe/MjjP4a8z3Yxk=
 			</data>
 			<key>hash2</key>
 			<data>
-			bslOTq4l6G/N2aCvbP7VpBmKvws30jKdYzSRp0neFKI=
+			bluYaS0HwK1sY3kiosyi4dDec3m0/6onz1lDyak6ozY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2477,11 +2477,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hTR5ukZ+wK/FLUilXTyi8vr6xuI=
+			G7je71O/OeG/fVfBJxx4ho4Pp/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			B/DBd+LLa2BMRtsPAc0kAzEggUqkLtr6fwDEpyq3cik=
+			JznRD/SU74WOnP3ZV0MndHw+khmDgnWn1OqOTshXTII=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/SQIPNetworkingResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -2642,33 +2642,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			LdhXVCTqf0UtVIUsg4Dd2IvPVQU=
+			KrBsCMKoYGSh50+xIHcD9Y+4ATg=
 			</data>
 			<key>hash2</key>
 			<data>
-			sXq+/2u5rN6UpGrbGBOEmf4qrASyzSjbj5huD2iJy8Q=
+			oz1JGfddRdQgXW/9056+nEKMMCiPewNiFtyzeCofzEE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eJAsxOnt03fKNyjSJhDvfaD6wis=
+			CQcpfJV2+K21bGpb9DjYTvqvlXM=
 			</data>
 			<key>hash2</key>
 			<data>
-			vtrbvZcxZPcJROd5mISQGPOKTOmpR9xT3xDhvu4vkz4=
+			ujOaOXv2OMp1Q71bNDxGxpkwPbtCx4LBnV9CnCgoB9U=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareInAppPaymentsSDK.framework/setup</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			q9xKltO1HMT60IeMO3xjcNi0uXc=
+			IgE010EuSJgB5o2T6W8ZDoEte0g=
 			</data>
 			<key>hash2</key>
 			<data>
-			MBhrJJcfB6Cs8bjQjakktdvnHHvt/feibtL226GJ6IQ=
+			IwdzxOMKy09IgRsth4Vbvp0CQ6TgU1S2lnqVT7IZ4d0=
 			</data>
 		</dict>
 	</dict>

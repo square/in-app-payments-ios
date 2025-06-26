@@ -1,15 +1,8 @@
-#ifdef __OBJC__
-#    import <Foundation/Foundation.h>
-#    if __has_include(<UIKit/UIKit.h>)
-#        import <UIKit/UIKit.h>
-#    endif
-#else
-#    ifndef FOUNDATION_EXPORT
-#        if defined(__cplusplus)
-#            define FOUNDATION_EXPORT extern "C"
-#        else
-#            define FOUNDATION_EXPORT extern
-#        endif
+#ifndef _FOUNDATION_EXPORT
+#    if defined(__cplusplus)
+#        define _FOUNDATION_EXPORT extern "C"
+#    else
+#        define _FOUNDATION_EXPORT extern
 #    endif
 #endif
 
@@ -24,5 +17,5 @@
 #import "SQIPVerificationRequestTypedefs.h"
 #import "SQIPBuyerVerificationSDK.h"
 
-FOUNDATION_EXPORT double SquareBuyerVerificationSDKVersionNumber;
-FOUNDATION_EXPORT const unsigned char SquareBuyerVerificationSDKVersionString[];
+_FOUNDATION_EXPORT double SquareBuyerVerificationSDKVersionNumber;
+_FOUNDATION_EXPORT const unsigned char SquareBuyerVerificationSDKVersionString[];

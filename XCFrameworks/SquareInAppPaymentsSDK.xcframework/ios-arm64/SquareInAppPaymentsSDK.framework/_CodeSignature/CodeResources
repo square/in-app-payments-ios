@@ -10,7 +10,7 @@
 		</data>
 		<key>CorePaymentCardResources.bundle/Info.plist</key>
 		<data>
-		4qGzYZjUgez3xLx+J6L4fa4B6gU=
+		/brUmTQxIlQ+hBa4XT4cROz4wwg=
 		</data>
 		<key>CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -27,7 +27,7 @@
 		</dict>
 		<key>Frameworks/CorePaymentCard.framework/CorePaymentCard</key>
 		<data>
-		jjgO6SlvIG4OV5cwaFT1J5Y5uf4=
+		YsYA+DDcPLK7A2SWoJlD1JXLWCU=
 		</data>
 		<key>Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/CorePaymentCardResources-Info.plist</key>
 		<data>
@@ -35,7 +35,7 @@
 		</data>
 		<key>Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/Info.plist</key>
 		<data>
-		KWsroaHZWdBi8c8CCRsP8ylJY0w=
+		h3jJf6x1LES408tX8ijgtnrTPsk=
 		</data>
 		<key>Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -52,11 +52,11 @@
 		</dict>
 		<key>Frameworks/CorePaymentCard.framework/Info.plist</key>
 		<data>
-		6qHFfMvgZ25dJvehqQiTZiRVMl8=
+		cZquxjeaTMfOHFfidy4zqYPmWUI=
 		</data>
 		<key>Frameworks/CorePaymentCard.framework/_CodeSignature/CodeResources</key>
 		<data>
-		5uXyiYiuG+pKi+kgyPXnbnAfe7o=
+		riqzclxNJlivF/pepx4g91Y2Jn4=
 		</data>
 		<key>Headers/PKPaymentRequest+Square.h</key>
 		<data>
@@ -104,7 +104,7 @@
 		</data>
 		<key>Headers/SQIPSecureRemoteCommerce.h</key>
 		<data>
-		9UPwBne3Vzze33/CuKWirenQeAE=
+		AIvZB53HJ/+qcHdekNy/Gonm2bE=
 		</data>
 		<key>Headers/SQIPSecureRemoteCommerceParameters.h</key>
 		<data>
@@ -116,11 +116,11 @@
 		</data>
 		<key>Headers/SquareInAppPaymentsSDK-umbrella.h</key>
 		<data>
-		4WJlAOoZWK9/BgX20Ls/NEOLFkU=
+		c8kxaRDAWqyNlG8u8+babGJQoRM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pMQ4QktmXEJmQdnu/Aj/jwcsUNQ=
+		rpwePOQdx7EAwYNgsQ69tDTnyDw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -132,20 +132,20 @@
 		</data>
 		<key>SQIPAssetFinderResources.bundle/Assets.car</key>
 		<data>
-		fLcFmYaTqEiG0PNRyXn7eCShxy0=
+		SaTGRz/JcW5VYI3NtjNVMzvAu+I=
 		</data>
 		<key>SQIPAssetFinderResources.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			GbdwND1p21VsXxz0Z0T9CYghCOU=
+			undOYkn1EhVQB7qM00rp9w60fzM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>SQIPAssetFinderResources.bundle/Info.plist</key>
 		<data>
-		mWBKA5SSk3CXMhq/hEJKVrVxoQ8=
+		SL2qZrQ420tkgMOfU4k10X2PoWo=
 		</data>
 		<key>SQIPAssetFinderResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -248,11 +248,11 @@
 		</dict>
 		<key>SQIPCardEntryViewResources.bundle/Assets.car</key>
 		<data>
-		IszHXCcpbmO2GazRvAaQXgxCqes=
+		RkSiMgwGFEcXfsrKaKHxaZ7E2k0=
 		</data>
 		<key>SQIPCardEntryViewResources.bundle/Info.plist</key>
 		<data>
-		x/Zv0yOJvUTcSf0YMy83YtBn3tY=
+		FWwLy6GrswV9B24Zppt28vdPOzY=
 		</data>
 		<key>SQIPCardEntryViewResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -303,7 +303,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			chncELX9L3TZrYo05rJL6h8SGUI=
+			qCqiJUe8yLMYbe/MjjP4a8z3Yxk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -355,7 +355,7 @@
 		</dict>
 		<key>SQIPNetworkingResources.bundle/Info.plist</key>
 		<data>
-		TI7S6Fz+3bPLV25DstbVDCJHzsc=
+		cccfI17nc9vIQzqwSmzU9+FMY0s=
 		</data>
 		<key>SQIPNetworkingResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
@@ -462,7 +462,7 @@
 		</data>
 		<key>setup</key>
 		<data>
-		q9xKltO1HMT60IeMO3xjcNi0uXc=
+		IgE010EuSJgB5o2T6W8ZDoEte0g=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -478,7 +478,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aT4UKe4eBo5xk8byOnJDaC/nM3+sNh8/uY2wuej0woU=
+			adJa5nVJGOPK4KZNKUgVXYk52Y0gvVx7QCMLqsWBMiU=
 			</data>
 		</dict>
 		<key>CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -501,7 +501,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t0XQk7T/Y4KSVx3cSpP2KJr1Tflo4NaYissdip/Hn7U=
+			fjqVJte+IZhtIHfVje0zDBwFUXViL0tFG4CAbHkbAf8=
 			</data>
 		</dict>
 		<key>Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/CorePaymentCardResources-Info.plist</key>
@@ -515,7 +515,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gAWvf2343I41IUUdpFx1H/HnoSf2Ug16qcxhDP6ErHE=
+			hNMxm9gsoAv5NZ/LaSdURc1xLLp5YS7JxUJme2ooZXQ=
 			</data>
 		</dict>
 		<key>Frameworks/CorePaymentCard.framework/CorePaymentCardResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -538,14 +538,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rHZHil6xbdkVHp9s8LSX+QpSTZ4i944nzRbKPRxqJbI=
+			e/uDAY0hlrZjY5kVquYYPjrDLmJZyUmpHQaNZnl7Cko=
 			</data>
 		</dict>
 		<key>Frameworks/CorePaymentCard.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			abiPRdm/oUAoWtG1xx00s7E2c5QKOypyibNA4pz8z20=
+			ZkqTDMzu9SR7kfhPDCWi6/4KYycEPmrDDti0VEHCRTQ=
 			</data>
 		</dict>
 		<key>Headers/PKPaymentRequest+Square.h</key>
@@ -629,7 +629,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6SSq+dBbq6+gFcoWLsYK84G1dGlFo600ZPUrZK/huZ8=
+			4LQbXPuGw76DgMf8g3lCs9fZ+GEJpYvA8ST6mUcqsqk=
 			</data>
 		</dict>
 		<key>Headers/SQIPSecureRemoteCommerceParameters.h</key>
@@ -650,7 +650,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VZwf0O/uTDE7i8LXF8WFoT5QbVxxyIk0BKzJOd9oBBk=
+			M1ICv77SLJmDMUMLu7qqFvyMRhQ66dtndZY1i1aBMAU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -671,14 +671,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Mql7by4KFeZxO+zH0pvvuJw4zM/JiIFjUZ54oCifiaY=
+			uz4QgsAC6vZtchAQKg/AF3VuRrvzG9S9WIFJVeErCLc=
 			</data>
 		</dict>
 		<key>SQIPAssetFinderResources.bundle/Base.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HahbOQf+U005ep7mFfbOnTH11cu3+OHvFd8tpCR+8eE=
+			iIHg9J3H6T0zaNvpKOQvNGnX6nKmAsrUQ8NjHbvWCZM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -687,7 +687,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hSjHmftwH5vV1+c2BtxzDqQVx1JxVfERaHMlK01+ZGg=
+			YzfOyZi3GNxp43iTWNhXn0dhiMFptwZ2jXbZHBxzZpY=
 			</data>
 		</dict>
 		<key>SQIPAssetFinderResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -793,14 +793,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tmu3+eNNQxviur7PVy4JQuEcbbKwl+XmYAfjtyRJu08=
+			53A5VVmEYD6YuIE7vD8AqvEdYZJggq/JgWjQpH3BFA0=
 			</data>
 		</dict>
 		<key>SQIPCardEntryViewResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VDMQx8+IpoMfaMu0CCNv3thswDjvW5ozmADDr9NpLm4=
+			NcYrtYFju1Y2ISKVAO/4ozRbopwokZkazr591+7k6i0=
 			</data>
 		</dict>
 		<key>SQIPCardEntryViewResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -852,7 +852,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bslOTq4l6G/N2aCvbP7VpBmKvws30jKdYzSRp0neFKI=
+			bluYaS0HwK1sY3kiosyi4dDec3m0/6onz1lDyak6ozY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -906,7 +906,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/8QdWdwWM23AL7LAzWVrf9CXSBOwYlx/D+3/xfvSxf0=
+			sEeg/3fnccd9DbY6Hy6jhgsoIGhHK67uF/Kl3jAaLNA=
 			</data>
 		</dict>
 		<key>SQIPNetworkingResources.bundle/ca-ES.lproj/Localizable.strings</key>
@@ -1019,7 +1019,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MBhrJJcfB6Cs8bjQjakktdvnHHvt/feibtL226GJ6IQ=
+			IwdzxOMKy09IgRsth4Vbvp0CQ6TgU1S2lnqVT7IZ4d0=
 			</data>
 		</dict>
 	</dict>

@@ -10,6 +10,7 @@
 #import "SQIPCardDetails.h"
 #import "SQIPSecureRemoteCommerceParameters.h"
 #import <WebKit/WebKit.h>
+@import UIKit;
 
 /**
  This class starts and handles a Secure Remote Commerce transaction.
