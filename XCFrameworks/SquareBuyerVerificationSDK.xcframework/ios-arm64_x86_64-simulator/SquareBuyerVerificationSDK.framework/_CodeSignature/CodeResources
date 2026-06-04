@@ -102,7 +102,7 @@
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ThreeDS_SDK</key>
 		<data>
-		lwX14NIICqWm5qq7uMe8UPoDjQA=
+		NSLGGnnRJ7/YbX7R1Gr37K+HVNo=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/WhitelistingZone.nib</key>
 		<data>
@@ -174,19 +174,19 @@
 		</data>
 		<key>Headers/SQIPBuyerAction.h</key>
 		<data>
-		HuCf+aFp5RwNC4UpQvKUaiA9cCc=
+		AdofadNnOfQYMpNLLpEpGbLvVhM=
 		</data>
 		<key>Headers/SQIPBuyerVerificationSDK.h</key>
 		<data>
-		jABNg5vUKiN2j15kp0tNmkhwGDo=
+		deKWqSXa1zXBAHmyhJxy+iNQ1iM=
 		</data>
 		<key>Headers/SQIPBuyerVerifiedDetails.h</key>
 		<data>
-		39kitiOce0vRaUPa8lSnazCOmC8=
+		oi0G6peyyoGCVdy/z6wIiT8eg1A=
 		</data>
 		<key>Headers/SQIPContact.h</key>
 		<data>
-		YhK3pbLjJ/Nnf5gOtK+ZpBM+u+U=
+		nqQIX5rzpQxf8RYw6/tS5xCiHzo=
 		</data>
 		<key>Headers/SQIPCountry.h</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>Headers/SQIPMoney.h</key>
 		<data>
-		s+DV0aS0D1j8trzSGI9hSB5r6pM=
+		Rn6JGitAhjljUxyYz1RxcCR0NjA=
 		</data>
 		<key>Headers/SQIPVerificationParameters.h</key>
 		<data>
@@ -214,23 +214,23 @@
 		</data>
 		<key>Headers/SquareBuyerVerificationSDK-Swift.h</key>
 		<data>
-		BP8Z8dpFBWs9X/b60oY76LrumxQ=
+		Ol+mIo8s2bJcMyuwrzLG1shOKd0=
 		</data>
-		<key>Headers/SquareBuyerVerificationSDK-umbrella.h</key>
+		<key>Headers/SquareBuyerVerificationSDK.h</key>
 		<data>
-		CDfD9imYqpAfTqPCtDz9WfpFuvU=
+		NJHkdPDf0nMbeu0zy+/lQSIZUpM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Lssvb5XLDDZ5TPAxJTDtVNhnZFk=
+		4RrVMEF9p1hG25198rORIkCqyaA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		OfR2FtzRq3FAguoBbS+QoHuLjp8=
+		hEWk47rCQJYUoXBl8GEg4ngtWgo=
 		</data>
 		<key>NetceteraBridgingResources.bundle/Info.plist</key>
 		<data>
-		+qCGGcQzThL3bIkC0pLp+jpz1Tk=
+		iBSGT91mJ0wCYOE5jGd/VTXDQJE=
 		</data>
 		<key>NetceteraBridgingResources.bundle/NetceteraSDK-License-Prod.lic</key>
 		<data>
@@ -240,11 +240,101 @@
 		<data>
 		wURzyk4cnrsDAWLSIje7PrnJz2A=
 		</data>
+		<key>NetceteraBridgingResources.bundle/ca-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oVqTfyPzQG4aXM2s1GotGzgwisQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/en-AU.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/en-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/en-IE.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>NetceteraBridgingResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/es-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TkC3NqOxvqHCuqF0AaFqfPs1A60=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z6gvxSq4+Qrlnr1l2MqyRYu80Dc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/fr-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xqCfm706LtgzAOlW/pB9ldK+InM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c/wkuD6fI5jblyl0szQe+OfWJFY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TVNN76gX9VkwJyj2RixvbAJ37f8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -428,7 +518,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P2GxGaC/LfDJhjIOKkWXbKadPk7BnL0fi2Oamd9FTjY=
+			yaloQAmMc+V6xX8lDFBmc34AYF55plJyxqzB4T3F86Q=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/WhitelistingZone.nib</key>
@@ -554,28 +644,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ju4FYe9JpduWydC/FZyNYqc/4cxQfgC7ABkfqI/eAQA=
+			vmIC02VzVd1PxwrQAHY9CD3uTWPah59KAsZUWfNQnwM=
 			</data>
 		</dict>
 		<key>Headers/SQIPBuyerVerificationSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rfrNTWh0KWvnzXZqZdYE1mh0ji8NO+jxUHE58cCl5tA=
+			IYwnSf7X2UpROQ4b+QiMoGOtmvl0+5ZmiWBXGhUQOL4=
 			</data>
 		</dict>
 		<key>Headers/SQIPBuyerVerifiedDetails.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2LM+IyeEFiFkvq/xOr3m+trkHxq31wMLboS+clL977s=
+			kOsBH26bMFIqUI/MxAXpLwTdJPDu0vt5RTfeO0uvJG8=
 			</data>
 		</dict>
 		<key>Headers/SQIPContact.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A3SVOc8Cq++qYmrS3/xWlIlX/eAvDdf2SMUNrfaZWhw=
+			iwXRyWjrIwaZYAODMc4UCnq4xmIO4F3w4EPydDHgVzI=
 			</data>
 		</dict>
 		<key>Headers/SQIPCountry.h</key>
@@ -596,7 +686,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			D+Je3bAr7mixgUXs8uHEVEjEEgK1v/s5EN4fIOhKqpM=
+			6A8jb4BHNHhq1A2icr4p2nQ81m9afo5+djXtaH96uWw=
 			</data>
 		</dict>
 		<key>Headers/SQIPVerificationParameters.h</key>
@@ -624,28 +714,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			26tyIa7JVIoGjO6gSevgtdrDG2IO+kS1GZoglR9tFJE=
+			BFAFrmRuhYr5vDEXhVkU4Zqebmsg4wzJ2Bl6V/erMfc=
 			</data>
 		</dict>
-		<key>Headers/SquareBuyerVerificationSDK-umbrella.h</key>
+		<key>Headers/SquareBuyerVerificationSDK.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			++LjK4M2jx3ixPd6KisKjyTX32D70+7WALTL2/lOado=
+			vzgrkUqfvOakocPVWno3okc9zR/8dKc4QbSmmQ26mZc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h/4LUFgYG0VVT07DjMpjZelu39b9IF+qa7Vv181tlRU=
+			/ti1eJEGZ8SPBt7QoGz4mHue2zRyiufBrmIu+F64Bco=
 			</data>
 		</dict>
 		<key>NetceteraBridgingResources.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HWfnyQGT1IQkpotwziZSPV5o7N3X+8a6GcfGEPUPdSs=
+			kEBK959EPA4gGbFyQuwe8q5tFEPUACIeudrM4u+rWSE=
 			</data>
 		</dict>
 		<key>NetceteraBridgingResources.bundle/NetceteraSDK-License-Prod.lic</key>
@@ -662,11 +752,101 @@
 			uoOfRlCArQ83eDisLcoaqJ+aAJ2GlK0ub6BFFjSRctM=
 			</data>
 		</dict>
+		<key>NetceteraBridgingResources.bundle/ca-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CkYdorPPS2GIeNyug1ep1/9Q3DfgQYhYdmj6nwmOM9Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/en-AU.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/en-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/en-IE.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>NetceteraBridgingResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/es-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yODv+l/VUziCV0uvTQaw2HYESMP909p6AmsjQ51lSRE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MMVPe3YHrEvlwG5c6pDFn8KaswWzbAZDi/DFKB/Ovpw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/fr-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LNAAikeYYWjviHdP1PdxlyoH2nF0Qav29YR3rA/pPsA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J6aGBzKte2w/riMGdShLXWi2A1UQENbbeACEP/gWKCg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>NetceteraBridgingResources.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E52jkyKLCgo+ZgwJ6V9KvvpyVQhMd2+3HsyWob5TTr4=
 			</data>
 			<key>optional</key>
 			<true/>

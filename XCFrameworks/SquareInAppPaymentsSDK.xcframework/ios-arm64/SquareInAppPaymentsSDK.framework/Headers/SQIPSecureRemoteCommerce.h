@@ -6,10 +6,10 @@
 //  Copyright © 2020 Square, Inc. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
-#import "SQIPCardDetails.h"
-#import "SQIPSecureRemoteCommerceParameters.h"
-#import <WebKit/WebKit.h>
+@import Foundation;
+#import <SquareInAppPaymentsSDK/SQIPCardDetails.h>
+#import <SquareInAppPaymentsSDK/SQIPSecureRemoteCommerceParameters.h>
+@import WebKit;
 @import UIKit;
 
 /**
@@ -24,7 +24,7 @@ typedef void (^SQIPSecureRemoteCommerceCompletionHandler)(SQIPCardDetails *_Null
  Starts the Secure Remote Commerce transaction. Calling this method will modally present the dialogs over the designated view controller.
 
  @discussion If the request completes successfully the completion handler will pass in card details and no error. If there is an error, the error will be passed without card details. If the action is cancelled both the details and the error will be `nil`.
- 
+
  @param presentingViewController The view controller over whose view the dialogs willappear.
  @param secureRemoteCommerceParameters The necessary parameters for conducting a Secure Remote Commerce Transaction. Currently just the amount in USD.
  @param completionHandler The completion handler to be called upon success or failure of the nonce request.

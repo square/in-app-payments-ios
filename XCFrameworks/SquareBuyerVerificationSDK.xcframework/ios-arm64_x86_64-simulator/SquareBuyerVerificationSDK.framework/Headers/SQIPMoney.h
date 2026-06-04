@@ -16,7 +16,7 @@
 
 @import Foundation;
 
-#import "SQIPCurrency.h"
+#import <SquareBuyerVerificationSDK/SQIPCurrency.h>
 
 /**
  Value that will charge the card payment source ID with amount in the specified `SQIPCurrency`
@@ -38,7 +38,7 @@
 /**
  :nodoc:
  */
-@property (assign, nonnull, readonly) NSString *currencyCode;
+@property (copy, nonnull, readonly) NSString *currencyCode;
 
 /**
  Creates a new money object.

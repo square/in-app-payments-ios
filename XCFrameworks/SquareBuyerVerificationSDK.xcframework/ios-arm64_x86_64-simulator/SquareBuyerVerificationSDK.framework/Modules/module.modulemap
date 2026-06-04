@@ -1,8 +1,7 @@
 framework module SquareBuyerVerificationSDK {
-    umbrella header "SquareBuyerVerificationSDK-umbrella.h"
+    umbrella header "SquareBuyerVerificationSDK.h"
 
     export *
-    module * { export * }
 }
 
 module SquareBuyerVerificationSDK.Swift {

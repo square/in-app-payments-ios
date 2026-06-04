@@ -1,11 +1,3 @@
-#ifndef _FOUNDATION_EXPORT
-#    if defined(__cplusplus)
-#        define _FOUNDATION_EXPORT extern "C"
-#    else
-#        define _FOUNDATION_EXPORT extern
-#    endif
-#endif
-
 #import "PKPaymentRequest+Square.h"
 #import "SQIPApplePayNonceRequest.h"
 #import "SQIPApplePayNonceRequestError.h"
@@ -21,5 +13,5 @@
 #import "SQIPSecureRemoteCommerceParameters.h"
 #import "SQIPTheme.h"
 
-_FOUNDATION_EXPORT double SquareInAppPaymentsSDKVersionNumber;
-_FOUNDATION_EXPORT const unsigned char SquareInAppPaymentsSDKVersionString[];
+extern double SquareInAppPaymentsSDKVersionNumber;
+extern const unsigned char SquareInAppPaymentsSDKVersionString[];

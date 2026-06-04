@@ -14,7 +14,7 @@
 //    THE SOFTWARE.
 //
 
-#import <Foundation/Foundation.h>
+@import Foundation;
 
 #import <SquareInAppPaymentsSDK/SQIPCardBrand.h>
 #import <SquareInAppPaymentsSDK/SQIPCardPrepaidType.h>
@@ -72,6 +72,6 @@
  :nodoc:
  `new` is unavailable.
  */
-+ (nonnull instancetype) new NS_UNAVAILABLE;
++ (nonnull instancetype)new NS_UNAVAILABLE;
 
 @end
