@@ -14,7 +14,7 @@
 //    THE SOFTWARE.
 //
 
-@import UIKit;
+#import <UIKit/UIKit.h>
 
 /**
  Encapsulates options used to style SQIPCardEntryViewController.

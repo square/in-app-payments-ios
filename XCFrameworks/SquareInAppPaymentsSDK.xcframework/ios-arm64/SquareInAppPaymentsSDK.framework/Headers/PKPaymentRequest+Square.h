@@ -14,7 +14,7 @@
 //    THE SOFTWARE.
 //
 
-@import PassKit;
+#import <PassKit/PassKit.h>
 
 /**
  PKPaymentRequest additions for using Apple Pay with Square.

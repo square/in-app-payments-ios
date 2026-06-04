@@ -15,7 +15,7 @@
 //    THE SOFTWARE.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  Indicates the associated currency for a money amount.

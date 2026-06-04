@@ -15,7 +15,7 @@
 //    THE SOFTWARE.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /** Indicates a card's brand, such as Visa. */
 typedef NS_CLOSED_ENUM(NSUInteger, SQIPCardBrand) {

@@ -14,7 +14,7 @@
 //    THE SOFTWARE.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  Represents a successfully verified buyer.

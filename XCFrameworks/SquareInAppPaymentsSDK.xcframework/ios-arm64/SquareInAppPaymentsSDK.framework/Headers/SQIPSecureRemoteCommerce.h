@@ -6,11 +6,11 @@
 //  Copyright © 2020 Square, Inc. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 #import <SquareInAppPaymentsSDK/SQIPCardDetails.h>
 #import <SquareInAppPaymentsSDK/SQIPSecureRemoteCommerceParameters.h>
-@import WebKit;
-@import UIKit;
+#import <WebKit/WebKit.h>
+#import <UIKit/UIKit.h>
 
 /**
  This class starts and handles a Secure Remote Commerce transaction.
