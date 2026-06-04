@@ -6,7 +6,7 @@
 //  Copyright © 2022 Square, Inc. All rights reserved.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 @class SQIPBuyerVerifiedDetails;
 

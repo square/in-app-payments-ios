@@ -15,7 +15,7 @@
 //    THE SOFTWARE.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  Indicates the country associated with an entity, such as a business.

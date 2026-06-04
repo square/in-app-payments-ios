@@ -14,7 +14,7 @@
 //    THE SOFTWARE.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 /**
  The domain for errors that may occur when requesting a verification.

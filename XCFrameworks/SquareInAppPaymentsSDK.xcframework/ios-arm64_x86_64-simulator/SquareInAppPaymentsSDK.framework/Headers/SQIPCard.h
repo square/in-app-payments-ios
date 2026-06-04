@@ -14,7 +14,7 @@
 //    THE SOFTWARE.
 //
 
-@import Foundation;
+#import <Foundation/Foundation.h>
 
 #import <SquareInAppPaymentsSDK/SQIPCardBrand.h>
 #import <SquareInAppPaymentsSDK/SQIPCardPrepaidType.h>
