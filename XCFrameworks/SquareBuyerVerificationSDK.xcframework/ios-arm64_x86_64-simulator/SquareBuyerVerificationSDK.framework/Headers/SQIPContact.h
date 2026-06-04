@@ -16,7 +16,7 @@
 
 @import Foundation;
 
-#import "SQIPCountry.h"
+#import <SquareBuyerVerificationSDK/SQIPCountry.h>
 
 /**
  This represents the optional fields that can be passed in as part of the verification process.
@@ -67,7 +67,7 @@
 /**
  :nodoc:
  */
-@property (assign, nonnull, readonly) NSString *countryCode;
+@property (copy, nonnull, readonly) NSString *countryCode;
 
 /**
  The telephone number of the contact.

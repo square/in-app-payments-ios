@@ -102,7 +102,7 @@
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ThreeDS_SDK</key>
 		<data>
-		s7fUgTQV/htxdw9X0CT8H4jK3PE=
+		h8LubRjAj13lezq77OBBpVcy3Yo=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/WhitelistingZone.nib</key>
 		<data>
@@ -174,19 +174,19 @@
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerAction.h</key>
 		<data>
-		HuCf+aFp5RwNC4UpQvKUaiA9cCc=
+		AdofadNnOfQYMpNLLpEpGbLvVhM=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerVerificationSDK.h</key>
 		<data>
-		jABNg5vUKiN2j15kp0tNmkhwGDo=
+		deKWqSXa1zXBAHmyhJxy+iNQ1iM=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerVerifiedDetails.h</key>
 		<data>
-		39kitiOce0vRaUPa8lSnazCOmC8=
+		oi0G6peyyoGCVdy/z6wIiT8eg1A=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPContact.h</key>
 		<data>
-		YhK3pbLjJ/Nnf5gOtK+ZpBM+u+U=
+		nqQIX5rzpQxf8RYw6/tS5xCiHzo=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPCountry.h</key>
 		<data>
@@ -198,7 +198,7 @@
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPMoney.h</key>
 		<data>
-		s+DV0aS0D1j8trzSGI9hSB5r6pM=
+		Rn6JGitAhjljUxyYz1RxcCR0NjA=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPVerificationParameters.h</key>
 		<data>
@@ -214,23 +214,23 @@
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK-Swift.h</key>
 		<data>
-		BP8Z8dpFBWs9X/b60oY76LrumxQ=
+		Ol+mIo8s2bJcMyuwrzLG1shOKd0=
 		</data>
-		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK-umbrella.h</key>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK.h</key>
 		<data>
-		CDfD9imYqpAfTqPCtDz9WfpFuvU=
+		NJHkdPDf0nMbeu0zy+/lQSIZUpM=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Info.plist</key>
 		<data>
-		3Im3Q+5wiAMhSIJcL9iWfPPYhr8=
+		rdVkLAls0Gf75qaJ8ABSUFqSDVE=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Modules/module.modulemap</key>
 		<data>
-		OfR2FtzRq3FAguoBbS+QoHuLjp8=
+		hEWk47rCQJYUoXBl8GEg4ngtWgo=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/Info.plist</key>
 		<data>
-		zKiC70kvzcNJbl06ogM8ZTRWv1g=
+		iBSGT91mJ0wCYOE5jGd/VTXDQJE=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/NetceteraSDK-License-Prod.lic</key>
 		<data>
@@ -240,11 +240,101 @@
 		<data>
 		wURzyk4cnrsDAWLSIje7PrnJz2A=
 		</data>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/ca-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oVqTfyPzQG4aXM2s1GotGzgwisQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-AU.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-IE.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/es-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TkC3NqOxvqHCuqF0AaFqfPs1A60=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z6gvxSq4+Qrlnr1l2MqyRYu80Dc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/fr-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xqCfm706LtgzAOlW/pB9ldK+InM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c/wkuD6fI5jblyl0szQe+OfWJFY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TVNN76gX9VkwJyj2RixvbAJ37f8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -255,11 +345,11 @@
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/SquareBuyerVerificationSDK</key>
 		<data>
-		MukIUCLFBtw/1ic0AXOWuuGA0Lk=
+		wpudvvkWhz1EJzc4F+QPs3spmwI=
 		</data>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		hG73NvVbVhdBmTEoesmSfxGriBc=
+		wMdbQZMUliSn50NcChbCq39dksA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ASN1Decoder_LICENSE.txt</key>
 		<data>
@@ -359,7 +449,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ThreeDS_SDK</key>
 		<data>
-		lwX14NIICqWm5qq7uMe8UPoDjQA=
+		NSLGGnnRJ7/YbX7R1Gr37K+HVNo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/WhitelistingZone.nib</key>
 		<data>
@@ -431,19 +521,19 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerAction.h</key>
 		<data>
-		HuCf+aFp5RwNC4UpQvKUaiA9cCc=
+		AdofadNnOfQYMpNLLpEpGbLvVhM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerVerificationSDK.h</key>
 		<data>
-		jABNg5vUKiN2j15kp0tNmkhwGDo=
+		deKWqSXa1zXBAHmyhJxy+iNQ1iM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerVerifiedDetails.h</key>
 		<data>
-		39kitiOce0vRaUPa8lSnazCOmC8=
+		oi0G6peyyoGCVdy/z6wIiT8eg1A=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPContact.h</key>
 		<data>
-		YhK3pbLjJ/Nnf5gOtK+ZpBM+u+U=
+		nqQIX5rzpQxf8RYw6/tS5xCiHzo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPCountry.h</key>
 		<data>
@@ -455,7 +545,7 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPMoney.h</key>
 		<data>
-		s+DV0aS0D1j8trzSGI9hSB5r6pM=
+		Rn6JGitAhjljUxyYz1RxcCR0NjA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPVerificationParameters.h</key>
 		<data>
@@ -471,23 +561,23 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK-Swift.h</key>
 		<data>
-		BP8Z8dpFBWs9X/b60oY76LrumxQ=
+		Ol+mIo8s2bJcMyuwrzLG1shOKd0=
 		</data>
-		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK-umbrella.h</key>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK.h</key>
 		<data>
-		CDfD9imYqpAfTqPCtDz9WfpFuvU=
+		NJHkdPDf0nMbeu0zy+/lQSIZUpM=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Info.plist</key>
 		<data>
-		Lssvb5XLDDZ5TPAxJTDtVNhnZFk=
+		4RrVMEF9p1hG25198rORIkCqyaA=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Modules/module.modulemap</key>
 		<data>
-		OfR2FtzRq3FAguoBbS+QoHuLjp8=
+		hEWk47rCQJYUoXBl8GEg4ngtWgo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/Info.plist</key>
 		<data>
-		+qCGGcQzThL3bIkC0pLp+jpz1Tk=
+		iBSGT91mJ0wCYOE5jGd/VTXDQJE=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/NetceteraSDK-License-Prod.lic</key>
 		<data>
@@ -497,11 +587,101 @@
 		<data>
 		wURzyk4cnrsDAWLSIje7PrnJz2A=
 		</data>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/ca-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oVqTfyPzQG4aXM2s1GotGzgwisQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-AU.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-IE.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/es-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TkC3NqOxvqHCuqF0AaFqfPs1A60=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z6gvxSq4+Qrlnr1l2MqyRYu80Dc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/fr-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xqCfm706LtgzAOlW/pB9ldK+InM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			c/wkuD6fI5jblyl0szQe+OfWJFY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TVNN76gX9VkwJyj2RixvbAJ37f8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -512,21 +692,17 @@
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/SquareBuyerVerificationSDK</key>
 		<data>
-		dlawqmr5xuPUPmjPyyI6egb6d6E=
+		xoOoB4PUq72YM+wCJWy/HhZFTTo=
 		</data>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		2myurOhJsf9K4lRRHzGA4Qlksa0=
+		GIkfufaUhdq5Hx+E3C8DEq/Bqjk=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ASN1Decoder_LICENSE.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XXIk0GfSwfYfRUGxIqDUWf/YdCI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ML1k8nOgNTwqgSnQr82SVF8TbXkr8wXqzKjLk7mTYtk=
@@ -534,10 +710,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/AmazonRootCA1.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jaf5Zexe/DeRDxxuWf3BzGpu3hY=
-			</data>
 			<key>hash2</key>
 			<data>
 			js3miE89h7ESW6Maw/yxPXAW3n9XzJBP4cuXxq6YGW4=
@@ -545,10 +717,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/AmazonRootCA2.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WozvRdemmFl2eoyLRJa1eM9HSxo=
-			</data>
 			<key>hash2</key>
 			<data>
 			G6WyqoxlQBqClgEY+AvsT2IwTYPOxHE6GcOcAR6kbbQ=
@@ -556,10 +724,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/AmazonRootCA3.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DUTdjDyMGhpYdWSB6Q8uKv+z0m4=
-			</data>
 			<key>hash2</key>
 			<data>
 			GM5s/nvxTmCy40e43+hoyzHQLrs62icVafUDQ7Rts6Q=
@@ -567,10 +731,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/AmazonRootCA4.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9hCEB9b4u2eYDMLiRMLrrhzvY74=
-			</data>
 			<key>hash2</key>
 			<data>
 			410oQZ7QICXPppA4zWI5YkWNpcaV+96jwisL+yWJcJI=
@@ -578,10 +738,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MW98kEFPCRj/n0Kvmx9IA1u3C4M=
-			</data>
 			<key>hash2</key>
 			<data>
 			nl+aEGhSVK9mJbVQ19jf+L+DokV0807r96DDE5r+uSQ=
@@ -589,10 +745,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/BrandingZoneView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Fa3GxCqdHwZozyr9BidsScheUYs=
-			</data>
 			<key>hash2</key>
 			<data>
 			5IEmEJzGHUFRuftl2YFBAfcxqzCKWqSxFgdTB/Agl8c=
@@ -600,10 +752,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ButtonsView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			4cOo9QIUtqiOTvlyzKCzC2Ntz9g=
-			</data>
 			<key>hash2</key>
 			<data>
 			cGrfdy3ffziJorpdo6W4dooV17JdfCzKF4JgnqlzKLo=
@@ -611,10 +759,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/CProcessScreen.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UqHs9xbe1QHZYF3GuOeMx99z+Hc=
-			</data>
 			<key>hash2</key>
 			<data>
 			n4NOeL/BFv52ebejWe+TngxPyYPe9lA5N46qhnovaA0=
@@ -622,10 +766,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ChallengeEntryBoxView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			bwYfOVTIMFZBnEToItQI8Vk4Hdw=
-			</data>
 			<key>hash2</key>
 			<data>
 			7Koc0KKD/aEHpr3VrxZwyeThES9HxbKL1ubAbl2zim8=
@@ -633,10 +773,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ChallengeInfoView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MoX9kQV5ZAvHoyu3fFHecWQzeAA=
-			</data>
 			<key>hash2</key>
 			<data>
 			CZqcJGN+3rmrig5wkdCVj3lHJxzYXpFFiqL2Jh4fSdk=
@@ -644,10 +780,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ExpandableInfoZoneView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			UFC7sPcUwqoLvHLc8XzPZRE7bUo=
-			</data>
 			<key>hash2</key>
 			<data>
 			FqdI+5NbUFNPunuGQgpB33gh5HOWh8RqApgMPTj0QdQ=
@@ -655,10 +787,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ExpandableInformationView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			W2g8AEckYzWRE1yysdv484mfKLU=
-			</data>
 			<key>hash2</key>
 			<data>
 			ir/ajQrWIbq/bw42nOHMNRGv4pp5wjUPnObwl1ze5Zo=
@@ -666,10 +794,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/FooterStackView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dNwIIQUFXKXQXppFj5dodh0mRBc=
-			</data>
 			<key>hash2</key>
 			<data>
 			e1scgRtsblYuTjAQYg0dCDw17anbMAYrkE1I6iTr8Ls=
@@ -677,10 +801,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/GMEllipticCurveCrypto_LICENSE.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O+bg8mgBlaL6EWLhW9HOHZ8L2NY=
-			</data>
 			<key>hash2</key>
 			<data>
 			gGuQUklxGEnZ2jVPwGCUGLoMjxlVP/XXqgIILyuGGLQ=
@@ -688,10 +808,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/GirdersSwift_LICENSE.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9YzvQVoMcjEbdkvp28AbhrMkaWY=
-			</data>
 			<key>hash2</key>
 			<data>
 			NUbfa7aeQGXezm/laoKf4CBR25sT3AdXT+IlUd6EXlQ=
@@ -699,10 +815,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dLj/ZwO7AJaDY5fWlWQ0ny8XFjs=
-			</data>
 			<key>hash2</key>
 			<data>
 			HZUkCcKRh9QqWHP7WdFEkaqGa3WCeDwkLonXNaVmNgE=
@@ -710,10 +822,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/InformationView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9mnoW5j37AnqKMXWFQBVDWIudf4=
-			</data>
 			<key>hash2</key>
 			<data>
 			Lx4WaYpTG+Fio6ThKfaXLIsij0Ip+42OrKQHDfOql08=
@@ -721,10 +829,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/OobView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			AkPkZNHy+m5+zYt4BWL/MTjI3E0=
-			</data>
 			<key>hash2</key>
 			<data>
 			xJW8AByP4YpF9QGojLyXNnNz9Mh8pJalOsPuLdvArEs=
@@ -732,10 +836,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ProcessingZoneTextView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3daN7+vFuE7FPVOcm+MdUouMZuQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			mLIQ5adnXvKooFjKcJASPqpJeHSFlXLSCUEz6dtRNZE=
@@ -743,10 +843,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ProgressDialog.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ttpfrfkeGpSmiEQXdgpH3/4NMJ0=
-			</data>
 			<key>hash2</key>
 			<data>
 			bfQdOb8H4wTyU13wbl8YtlWlUMZ9FD1V+bRpW7RXSyQ=
@@ -754,10 +850,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/SFSRootCAG2.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			klqPjSxtBOBmX1lq/yLYY+glbz8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Vo1pBaLIhwikswJRkO3P7bGXSmBqE8blKQ/LKuY+2rU=
@@ -765,10 +857,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/SelectView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Kg1WylBqKw/wd9d/lNVgD3Dyi6Y=
-			</data>
 			<key>hash2</key>
 			<data>
 			dP2ncOe/HQWlmlu8jDO3QdXVeggnqg7jASACySbokOM=
@@ -776,10 +864,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/SelectionView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rsvk7B3stNoOQgPk+Kn8sht0iV0=
-			</data>
 			<key>hash2</key>
 			<data>
 			ULgRulBU2F4aDdl8Fsy0hWTv3z8oR6yixR3ai7zK3UM=
@@ -787,21 +871,13 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ThreeDS_SDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s7fUgTQV/htxdw9X0CT8H4jK3PE=
-			</data>
 			<key>hash2</key>
 			<data>
-			/WbLLY2Di4wggAGeIR+zWAj7/mcD53YAvJ9wiS62PWY=
+			vf+pV64fm0lT42n7WenM9N6SlqbkFaWUYucmBqwh3fk=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/WhitelistingZone.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			q0tuDjsdjm4GCRtHaDDlKgIvOgc=
-			</data>
 			<key>hash2</key>
 			<data>
 			Bz1/ZALi8Nv1wT/SzDTsV3BwVzyr1BOFVnKSMTelP0o=
@@ -809,10 +885,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ndKI9QlD0wYsoHQ3pGw4VhtphoE=
-			</data>
 			<key>hash2</key>
 			<data>
 			8/2QA/wTqQmiDujeclNe1Vbaebv2X4/4Jwh5t+o7VEU=
@@ -820,10 +892,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/C4Y-y0-tcs-view-MrG-17-JGv.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			rl7TPKj24Az6v8yl2c6x7Q6SSIs=
-			</data>
 			<key>hash2</key>
 			<data>
 			1q96ARxUIFLPKsP2UqYYr/ikVuiBuJV21q5JByneiVU=
@@ -831,10 +899,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/HTMLChallengeViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			n0+Y4ITtVbjbCXu86IURsiAtXxI=
-			</data>
 			<key>hash2</key>
 			<data>
 			LRUJN4X6BRYmDkdV+hY9KTYUb6m5GETiKuTbE/VYaRs=
@@ -842,10 +906,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			B3GZsyo10I3ndr3m5IZr/26iihM=
-			</data>
 			<key>hash2</key>
 			<data>
 			pA4mrEz21qv5td9g/tpeIgKMnG9WYTv18gCvjk/W7Dc=
@@ -853,10 +913,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/NativeChallengeViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nV9j3iT909rj0T2I3DKSgbwBgCk=
-			</data>
 			<key>hash2</key>
 			<data>
 			ER7DxAUQVZOpUB575IBtiqn7W4nvlrMn0eAUeQJnAsk=
@@ -864,10 +920,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/WUm-ax-p1H-view-Hja-72-DgH.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			f5RqQGe+Q8fURLF1QbTJeXP4kE4=
-			</data>
 			<key>hash2</key>
 			<data>
 			U1NeL5b6qjQHmGVFcvsQ/93GFm6GeF0Xax/sXKe08SY=
@@ -875,10 +927,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/challengeVC.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			enAtECYhh76j/K5IoZnFseTgjrM=
-			</data>
 			<key>hash2</key>
 			<data>
 			71EASyGsnY82PFGTiQWGr2QA3kg+JabLdqU2/ekO2Lg=
@@ -886,10 +934,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/checkbox@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XX0U4Jbg9QXga1XFfLdHYwy5ai4=
-			</data>
 			<key>hash2</key>
 			<data>
 			TgNGEw3uUWbfGOIqDK2+EVWW88F6oKFTFbdEtLtxNHE=
@@ -897,10 +941,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/checkmark@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xQGtkpkzyQsRB8rmhKMdrkeiIOc=
-			</data>
 			<key>hash2</key>
 			<data>
 			AHMNKlwTcqDTn3I5QfaL7+RhJjW5bpGc0OHr3faXtwo=
@@ -908,10 +948,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/isrg-root-x2.der</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vbG5PNWXjUXGJhRV+NuVx1rRU68=
-			</data>
 			<key>hash2</key>
 			<data>
 			aXKbjhWobvwXelevtxcd/GSt0owvyozxUH40RTzLFHA=
@@ -919,10 +955,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/isrgrootx1.der</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yr0qeaEHajHyHSU2NcsDnUMppeg=
-			</data>
 			<key>hash2</key>
 			<data>
 			lrzsBiZJdvN0YHeazyjFp8/oo8Cq4RqP/O4FwL3fCMY=
@@ -930,10 +962,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/radiobox@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kDUHXhS4P7m0pU5yzBzH0YTlmKI=
-			</data>
 			<key>hash2</key>
 			<data>
 			YHYMMC/yALKjrphoY6uFpjVpBvX1SelNxasPaCqX+mk=
@@ -941,10 +969,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/radiomark@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qT5ke0tRN8LAxVCW0T/tjYNp108=
-			</data>
 			<key>hash2</key>
 			<data>
 			4IJ289FKq3+IldqEa8p8/5hG6xmPZMpvUMlTRQHvFKc=
@@ -952,10 +976,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/support_server_prev.p12</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BDXh38RN6j2H/wHyidJhfFXYVRY=
-			</data>
 			<key>hash2</key>
 			<data>
 			wmTyD3lOTP7JqbrZisauwkGtZCaQe4kFhIEj3xJ01Vo=
@@ -963,10 +983,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/support_server_prod.p12</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nE/lYNjqTO4btbwIO8+X5tzlRX8=
-			</data>
 			<key>hash2</key>
 			<data>
 			YHYjBL7X3xyrSIhHxEwF254nYcooOCtCNOeuz9jTwXg=
@@ -974,10 +990,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/warning@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E1tWsDj70C/LicdR3gO/AFiO5y4=
-			</data>
 			<key>hash2</key>
 			<data>
 			MRi5kEuDFNE9zEiFiBHNfSB2P+qsuXLDzKoP1z6YDTA=
@@ -985,54 +997,34 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerAction.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HuCf+aFp5RwNC4UpQvKUaiA9cCc=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ju4FYe9JpduWydC/FZyNYqc/4cxQfgC7ABkfqI/eAQA=
+			vmIC02VzVd1PxwrQAHY9CD3uTWPah59KAsZUWfNQnwM=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerVerificationSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jABNg5vUKiN2j15kp0tNmkhwGDo=
-			</data>
 			<key>hash2</key>
 			<data>
-			rfrNTWh0KWvnzXZqZdYE1mh0ji8NO+jxUHE58cCl5tA=
+			IYwnSf7X2UpROQ4b+QiMoGOtmvl0+5ZmiWBXGhUQOL4=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerVerifiedDetails.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			39kitiOce0vRaUPa8lSnazCOmC8=
-			</data>
 			<key>hash2</key>
 			<data>
-			2LM+IyeEFiFkvq/xOr3m+trkHxq31wMLboS+clL977s=
+			kOsBH26bMFIqUI/MxAXpLwTdJPDu0vt5RTfeO0uvJG8=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPContact.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YhK3pbLjJ/Nnf5gOtK+ZpBM+u+U=
-			</data>
 			<key>hash2</key>
 			<data>
-			A3SVOc8Cq++qYmrS3/xWlIlX/eAvDdf2SMUNrfaZWhw=
+			iwXRyWjrIwaZYAODMc4UCnq4xmIO4F3w4EPydDHgVzI=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPCountry.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YVZIIlgUZ9qbAx2jVJe0xWvPyZA=
-			</data>
 			<key>hash2</key>
 			<data>
 			7WE5mKH1XIKSsqGwWR5jb3jZ+r/QAuTnVS3C9xBGK1I=
@@ -1040,10 +1032,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPCurrency.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0zlAxMSivU0eKl+RaSnkyPFawjM=
-			</data>
 			<key>hash2</key>
 			<data>
 			jKtrsxAY7lD2vthmIYXHy4XKWQi1i6yZjTsXm1spTqg=
@@ -1051,21 +1039,13 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPMoney.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s+DV0aS0D1j8trzSGI9hSB5r6pM=
-			</data>
 			<key>hash2</key>
 			<data>
-			D+Je3bAr7mixgUXs8uHEVEjEEgK1v/s5EN4fIOhKqpM=
+			6A8jb4BHNHhq1A2icr4p2nQ81m9afo5+djXtaH96uWw=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPVerificationParameters.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eYf3k3o23eem0djLTnGJTTfS3O8=
-			</data>
 			<key>hash2</key>
 			<data>
 			B2skyko8r+Mr/ruoEECOuWR9QcMaJW36EtUSKFAz/Sc=
@@ -1073,10 +1053,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPVerificationRequestError.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+sqf+tJFmcaGY95WHCGZWC28JKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			4Yz/rvaEPnsvDDRL1GGh251I4S/nnQynRVPRDp72OHQ=
@@ -1084,10 +1060,6 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SQIPVerificationRequestTypedefs.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5ErT4R9tTdjzPBNmzJDesRZSnOU=
-			</data>
 			<key>hash2</key>
 			<data>
 			VnXn3ru+Fn5pr4p3r93tQ+5bfonkVG+k+Yh++/4kATY=
@@ -1095,65 +1067,41 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BP8Z8dpFBWs9X/b60oY76LrumxQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			26tyIa7JVIoGjO6gSevgtdrDG2IO+kS1GZoglR9tFJE=
+			BFAFrmRuhYr5vDEXhVkU4Zqebmsg4wzJ2Bl6V/erMfc=
 			</data>
 		</dict>
-		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK-umbrella.h</key>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CDfD9imYqpAfTqPCtDz9WfpFuvU=
-			</data>
 			<key>hash2</key>
 			<data>
-			++LjK4M2jx3ixPd6KisKjyTX32D70+7WALTL2/lOado=
+			vzgrkUqfvOakocPVWno3okc9zR/8dKc4QbSmmQ26mZc=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3Im3Q+5wiAMhSIJcL9iWfPPYhr8=
-			</data>
 			<key>hash2</key>
 			<data>
-			xlzt82bpVsvdG4QBSj2xv2Q8nzI/SAEPJvWrOUQiDDo=
+			9L8Q2LJ5WEwymMqKA1dYyHL+DTSl34CX5nfP5PVblR0=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OfR2FtzRq3FAguoBbS+QoHuLjp8=
-			</data>
 			<key>hash2</key>
 			<data>
-			h/4LUFgYG0VVT07DjMpjZelu39b9IF+qa7Vv181tlRU=
+			/ti1eJEGZ8SPBt7QoGz4mHue2zRyiufBrmIu+F64Bco=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			zKiC70kvzcNJbl06ogM8ZTRWv1g=
-			</data>
 			<key>hash2</key>
 			<data>
-			SZyoCwiS+T5N1rg9JMEoGFvrUW/w1CW/AgHdrBg6Eoo=
+			kEBK959EPA4gGbFyQuwe8q5tFEPUACIeudrM4u+rWSE=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/NetceteraSDK-License-Prod.lic</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			btxsCeWAZDaczn6t0eXNWll+O8E=
-			</data>
 			<key>hash2</key>
 			<data>
 			YDd32r2oX4gPLXID7J5pHmAPRJPGaeSwMYZSZPvki4I=
@@ -1161,21 +1109,22 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/acs_simulator_root.crt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wURzyk4cnrsDAWLSIje7PrnJz2A=
-			</data>
 			<key>hash2</key>
 			<data>
 			uoOfRlCArQ83eDisLcoaqJ+aAJ2GlK0ub6BFFjSRctM=
 			</data>
 		</dict>
-		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en.lproj/Localizable.strings</key>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
+			<key>hash2</key>
 			<data>
-			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			CkYdorPPS2GIeNyug1ep1/9Q3DfgQYhYdmj6nwmOM9Q=
 			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-AU.lproj/Localizable.strings</key>
+		<dict>
 			<key>hash2</key>
 			<data>
 			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
@@ -1183,12 +1132,89 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-IE.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/es-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yODv+l/VUziCV0uvTQaw2HYESMP909p6AmsjQ51lSRE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MMVPe3YHrEvlwG5c6pDFn8KaswWzbAZDi/DFKB/Ovpw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/fr-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LNAAikeYYWjviHdP1PdxlyoH2nF0Qav29YR3rA/pPsA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J6aGBzKte2w/riMGdShLXWi2A1UQENbbeACEP/gWKCg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E52jkyKLCgo+ZgwJ6V9KvvpyVQhMd2+3HsyWob5TTr4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/sandbox_encryption.crt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Nez/Q22Ii1ZJbDcXJT5d6iEtog8=
-			</data>
 			<key>hash2</key>
 			<data>
 			4MdCli5rLdYAcl/VJXGQZ7ADLZgH6VwlhDqsMy3H6Ww=
@@ -1196,32 +1222,20 @@
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/SquareBuyerVerificationSDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MukIUCLFBtw/1ic0AXOWuuGA0Lk=
-			</data>
 			<key>hash2</key>
 			<data>
-			jTOz6ODagiDszJKc9hglRGkwxqA8VY6j1SfLKjsfnSE=
+			1vxlzvjbYB1dQxLOwKiZyFE0hgRO0zsYHy+PEYhcdIc=
 			</data>
 		</dict>
 		<key>ios-arm64/SquareBuyerVerificationSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			hG73NvVbVhdBmTEoesmSfxGriBc=
-			</data>
 			<key>hash2</key>
 			<data>
-			6K/GWhUkjQTRT5+iwccy6d/hC6KqzFCQ6CHmI/T1IaA=
+			Eeqh/Z2OMluuy+ACckNQgzr1+kTtOjMfJbZyMT3TfyA=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ASN1Decoder_LICENSE.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XXIk0GfSwfYfRUGxIqDUWf/YdCI=
-			</data>
 			<key>hash2</key>
 			<data>
 			ML1k8nOgNTwqgSnQr82SVF8TbXkr8wXqzKjLk7mTYtk=
@@ -1229,10 +1243,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/AmazonRootCA1.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jaf5Zexe/DeRDxxuWf3BzGpu3hY=
-			</data>
 			<key>hash2</key>
 			<data>
 			js3miE89h7ESW6Maw/yxPXAW3n9XzJBP4cuXxq6YGW4=
@@ -1240,10 +1250,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/AmazonRootCA2.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			WozvRdemmFl2eoyLRJa1eM9HSxo=
-			</data>
 			<key>hash2</key>
 			<data>
 			G6WyqoxlQBqClgEY+AvsT2IwTYPOxHE6GcOcAR6kbbQ=
@@ -1251,10 +1257,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/AmazonRootCA3.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DUTdjDyMGhpYdWSB6Q8uKv+z0m4=
-			</data>
 			<key>hash2</key>
 			<data>
 			GM5s/nvxTmCy40e43+hoyzHQLrs62icVafUDQ7Rts6Q=
@@ -1262,10 +1264,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/AmazonRootCA4.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9hCEB9b4u2eYDMLiRMLrrhzvY74=
-			</data>
 			<key>hash2</key>
 			<data>
 			410oQZ7QICXPppA4zWI5YkWNpcaV+96jwisL+yWJcJI=
@@ -1273,10 +1271,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			KbLJExXFplMOLPtCacOEN71ZDxM=
-			</data>
 			<key>hash2</key>
 			<data>
 			dzEVvD/OAAQGToBAG0A/DfTr//RbnBXWchRGTEIf0nM=
@@ -1284,10 +1278,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/BrandingZoneView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3Y++WH5GzjZCsH2ib5mGCR/TeCA=
-			</data>
 			<key>hash2</key>
 			<data>
 			TLoWB1SmEwMQwf7snnn9bEifP2zcfrarPskOgFK4W+Q=
@@ -1295,10 +1285,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ButtonsView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Hia+/VqH3lnWPiwLdb57ZPIdIlc=
-			</data>
 			<key>hash2</key>
 			<data>
 			Lit/YvvYMNefpcNEUx5dRvANZ6rMfqZf/L8QC82Sg/c=
@@ -1306,10 +1292,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/CProcessScreen.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			3RwSnJI3DdDiH2Y5ev5Xh75UvK4=
-			</data>
 			<key>hash2</key>
 			<data>
 			dVwTeYTRpuqmQs/uR8JRkW7w8rpIuFtAHsiw2NGqrkw=
@@ -1317,10 +1299,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ChallengeEntryBoxView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fNJ/mUJjHofg2lZVxNIKA6YjGgY=
-			</data>
 			<key>hash2</key>
 			<data>
 			EL1Hzd+udA/MGv2CBffc0HYWSwULGIa6jNNRIkAa58I=
@@ -1328,10 +1306,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ChallengeInfoView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vZwVN0A63szJ8zC1X6mgrtjjRNE=
-			</data>
 			<key>hash2</key>
 			<data>
 			UsYQJom24WY2DoQIofJKOS0q/Ww/Gb7apSJLpf15Sq4=
@@ -1339,10 +1313,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ExpandableInfoZoneView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SF3EqoDi/2a76R3BVeO+8/02v2Q=
-			</data>
 			<key>hash2</key>
 			<data>
 			7SFkp4tZMJcTEF0bkYPSakJGPnWhuSLd1vlIbJ2HZ+E=
@@ -1350,10 +1320,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ExpandableInformationView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			a90PIecHjqqWOQ4evxIKaXe+5Qg=
-			</data>
 			<key>hash2</key>
 			<data>
 			QPyKOSZA0WyOYTHKUrO70pZLlFKFoR3bJ1fe/yBTAtY=
@@ -1361,10 +1327,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/FooterStackView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			LEl/+QDrd2i523IJ3mSnDdoFKUE=
-			</data>
 			<key>hash2</key>
 			<data>
 			eLxUEfkObjPN5uxvwXRuDsjAXf0zW30hQ0DzbzfRh6s=
@@ -1372,10 +1334,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/GMEllipticCurveCrypto_LICENSE.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			O+bg8mgBlaL6EWLhW9HOHZ8L2NY=
-			</data>
 			<key>hash2</key>
 			<data>
 			gGuQUklxGEnZ2jVPwGCUGLoMjxlVP/XXqgIILyuGGLQ=
@@ -1383,10 +1341,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/GirdersSwift_LICENSE.txt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			9YzvQVoMcjEbdkvp28AbhrMkaWY=
-			</data>
 			<key>hash2</key>
 			<data>
 			NUbfa7aeQGXezm/laoKf4CBR25sT3AdXT+IlUd6EXlQ=
@@ -1394,10 +1348,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ywkJglFxYgB9ZwMSUWv41rBDcFs=
-			</data>
 			<key>hash2</key>
 			<data>
 			lAPtnAHBHb3y7X2+Puiu9EN+NWDl2OqRR3EbTJXVvZo=
@@ -1405,10 +1355,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/InformationView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			v5B2iJKizV2kZuDzAh5ka862UUg=
-			</data>
 			<key>hash2</key>
 			<data>
 			op47CjCnNrKBkYUFS5zXpVEaYLRpFdveSJuwjclNH/c=
@@ -1416,10 +1362,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/OobView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s5r+cFkbHq1sQjAnAmaivbkkiSM=
-			</data>
 			<key>hash2</key>
 			<data>
 			bUmuD4XE4VRTqDwGpLOiFlfgNUfQpasi/rMTPw91GRg=
@@ -1427,10 +1369,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ProcessingZoneTextView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RApiUq2aeh8buWcgH9jNAud6rLI=
-			</data>
 			<key>hash2</key>
 			<data>
 			rAuzhm+i+FHCRsDS1phgTbmBlYPLp/5zxwj32G2QSy8=
@@ -1438,10 +1376,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ProgressDialog.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MhV3uyCnPgK18UYKyPKzZkGaIBA=
-			</data>
 			<key>hash2</key>
 			<data>
 			FrpJpH43oS8b+Q/MP0wbG4V3qTCrKmD6DCeYDrPmO9w=
@@ -1449,10 +1383,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/SFSRootCAG2.cer</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			klqPjSxtBOBmX1lq/yLYY+glbz8=
-			</data>
 			<key>hash2</key>
 			<data>
 			Vo1pBaLIhwikswJRkO3P7bGXSmBqE8blKQ/LKuY+2rU=
@@ -1460,10 +1390,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/SelectView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			18z0LsDYcWlREUbNRUVdCcEtNmM=
-			</data>
 			<key>hash2</key>
 			<data>
 			hOalQFqdeeGI5ssd5MLQahN93oWWRr/KOieefr+4uhg=
@@ -1471,10 +1397,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/SelectionView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			SWrg4IzIPihySf2L+wJnQWCuCoM=
-			</data>
 			<key>hash2</key>
 			<data>
 			Fx0Fhm04QrcxkF1vCqsmmfLF3lFQcDkTnXygzDf6Hfg=
@@ -1482,21 +1404,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/ThreeDS_SDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			lwX14NIICqWm5qq7uMe8UPoDjQA=
-			</data>
 			<key>hash2</key>
 			<data>
-			P2GxGaC/LfDJhjIOKkWXbKadPk7BnL0fi2Oamd9FTjY=
+			yaloQAmMc+V6xX8lDFBmc34AYF55plJyxqzB4T3F86Q=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/WhitelistingZone.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E2M42cUNyGNTDZ8NzNKjpO6Lj54=
-			</data>
 			<key>hash2</key>
 			<data>
 			BUPMDmUKnEEfMiUb1L+CgRMlLjHOBiTT1VvofQJeZEI=
@@ -1504,10 +1418,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			prcCulx06FTJwrNvBScLxzyjmco=
-			</data>
 			<key>hash2</key>
 			<data>
 			Jpueg+olpR5dflCHg/GX8O2Rcw9KIcLCcHqUCNAaVWE=
@@ -1515,10 +1425,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/C4Y-y0-tcs-view-MrG-17-JGv.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			iO6FhGbm7YVpaWc2NBA/7vQahXU=
-			</data>
 			<key>hash2</key>
 			<data>
 			XNfu/B7sxEWXIpQQkGTvOFPkH0nBkl7G1NsbJuh3EZc=
@@ -1526,10 +1432,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/HTMLChallengeViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			V/5zz174xDzlJcLSU4KSFiEydiw=
-			</data>
 			<key>hash2</key>
 			<data>
 			efD2E2zUFivETDv2h/xOwSdIL+2p3Vxlvs5qYg3AqIQ=
@@ -1537,10 +1439,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			B3GZsyo10I3ndr3m5IZr/26iihM=
-			</data>
 			<key>hash2</key>
 			<data>
 			pA4mrEz21qv5td9g/tpeIgKMnG9WYTv18gCvjk/W7Dc=
@@ -1548,10 +1446,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/NativeChallengeViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MaQXrcGg1mDjZ0jnBcsfpl1OJcE=
-			</data>
 			<key>hash2</key>
 			<data>
 			fQpCxlmvp8JKbYTNM+ZLB5D5MC4XI8Rroy0+DvJdKoM=
@@ -1559,10 +1453,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/WUm-ax-p1H-view-Hja-72-DgH.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OOhwP+p+FIyEnoWEz9hXyNUMXB8=
-			</data>
 			<key>hash2</key>
 			<data>
 			6VDvPBTx5dZT393EkRhwpmil9bnLviJgcZ2vd2/I+xs=
@@ -1570,10 +1460,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/challengeVC.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			1N/hvT3kvYr/qDQnzD8jB/dmMYc=
-			</data>
 			<key>hash2</key>
 			<data>
 			Oq6qaXDjSncBSOT/ObR1PWmvf+PpPR22v+MdlE9onwY=
@@ -1581,10 +1467,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/checkbox@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			XX0U4Jbg9QXga1XFfLdHYwy5ai4=
-			</data>
 			<key>hash2</key>
 			<data>
 			TgNGEw3uUWbfGOIqDK2+EVWW88F6oKFTFbdEtLtxNHE=
@@ -1592,10 +1474,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/checkmark@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			xQGtkpkzyQsRB8rmhKMdrkeiIOc=
-			</data>
 			<key>hash2</key>
 			<data>
 			AHMNKlwTcqDTn3I5QfaL7+RhJjW5bpGc0OHr3faXtwo=
@@ -1603,10 +1481,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/isrg-root-x2.der</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			vbG5PNWXjUXGJhRV+NuVx1rRU68=
-			</data>
 			<key>hash2</key>
 			<data>
 			aXKbjhWobvwXelevtxcd/GSt0owvyozxUH40RTzLFHA=
@@ -1614,10 +1488,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/isrgrootx1.der</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			yr0qeaEHajHyHSU2NcsDnUMppeg=
-			</data>
 			<key>hash2</key>
 			<data>
 			lrzsBiZJdvN0YHeazyjFp8/oo8Cq4RqP/O4FwL3fCMY=
@@ -1625,10 +1495,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/radiobox@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			kDUHXhS4P7m0pU5yzBzH0YTlmKI=
-			</data>
 			<key>hash2</key>
 			<data>
 			YHYMMC/yALKjrphoY6uFpjVpBvX1SelNxasPaCqX+mk=
@@ -1636,10 +1502,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/radiomark@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			qT5ke0tRN8LAxVCW0T/tjYNp108=
-			</data>
 			<key>hash2</key>
 			<data>
 			4IJ289FKq3+IldqEa8p8/5hG6xmPZMpvUMlTRQHvFKc=
@@ -1647,10 +1509,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/support_server_prev.p12</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BDXh38RN6j2H/wHyidJhfFXYVRY=
-			</data>
 			<key>hash2</key>
 			<data>
 			wmTyD3lOTP7JqbrZisauwkGtZCaQe4kFhIEj3xJ01Vo=
@@ -1658,10 +1516,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/support_server_prod.p12</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nE/lYNjqTO4btbwIO8+X5tzlRX8=
-			</data>
 			<key>hash2</key>
 			<data>
 			YHYjBL7X3xyrSIhHxEwF254nYcooOCtCNOeuz9jTwXg=
@@ -1669,10 +1523,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Frameworks/ThreeDS_SDK.framework/warning@3x.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			E1tWsDj70C/LicdR3gO/AFiO5y4=
-			</data>
 			<key>hash2</key>
 			<data>
 			MRi5kEuDFNE9zEiFiBHNfSB2P+qsuXLDzKoP1z6YDTA=
@@ -1680,54 +1530,34 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerAction.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HuCf+aFp5RwNC4UpQvKUaiA9cCc=
-			</data>
 			<key>hash2</key>
 			<data>
-			Ju4FYe9JpduWydC/FZyNYqc/4cxQfgC7ABkfqI/eAQA=
+			vmIC02VzVd1PxwrQAHY9CD3uTWPah59KAsZUWfNQnwM=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerVerificationSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jABNg5vUKiN2j15kp0tNmkhwGDo=
-			</data>
 			<key>hash2</key>
 			<data>
-			rfrNTWh0KWvnzXZqZdYE1mh0ji8NO+jxUHE58cCl5tA=
+			IYwnSf7X2UpROQ4b+QiMoGOtmvl0+5ZmiWBXGhUQOL4=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPBuyerVerifiedDetails.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			39kitiOce0vRaUPa8lSnazCOmC8=
-			</data>
 			<key>hash2</key>
 			<data>
-			2LM+IyeEFiFkvq/xOr3m+trkHxq31wMLboS+clL977s=
+			kOsBH26bMFIqUI/MxAXpLwTdJPDu0vt5RTfeO0uvJG8=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPContact.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YhK3pbLjJ/Nnf5gOtK+ZpBM+u+U=
-			</data>
 			<key>hash2</key>
 			<data>
-			A3SVOc8Cq++qYmrS3/xWlIlX/eAvDdf2SMUNrfaZWhw=
+			iwXRyWjrIwaZYAODMc4UCnq4xmIO4F3w4EPydDHgVzI=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPCountry.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			YVZIIlgUZ9qbAx2jVJe0xWvPyZA=
-			</data>
 			<key>hash2</key>
 			<data>
 			7WE5mKH1XIKSsqGwWR5jb3jZ+r/QAuTnVS3C9xBGK1I=
@@ -1735,10 +1565,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPCurrency.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0zlAxMSivU0eKl+RaSnkyPFawjM=
-			</data>
 			<key>hash2</key>
 			<data>
 			jKtrsxAY7lD2vthmIYXHy4XKWQi1i6yZjTsXm1spTqg=
@@ -1746,21 +1572,13 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPMoney.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			s+DV0aS0D1j8trzSGI9hSB5r6pM=
-			</data>
 			<key>hash2</key>
 			<data>
-			D+Je3bAr7mixgUXs8uHEVEjEEgK1v/s5EN4fIOhKqpM=
+			6A8jb4BHNHhq1A2icr4p2nQ81m9afo5+djXtaH96uWw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPVerificationParameters.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			eYf3k3o23eem0djLTnGJTTfS3O8=
-			</data>
 			<key>hash2</key>
 			<data>
 			B2skyko8r+Mr/ruoEECOuWR9QcMaJW36EtUSKFAz/Sc=
@@ -1768,10 +1586,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPVerificationRequestError.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+sqf+tJFmcaGY95WHCGZWC28JKg=
-			</data>
 			<key>hash2</key>
 			<data>
 			4Yz/rvaEPnsvDDRL1GGh251I4S/nnQynRVPRDp72OHQ=
@@ -1779,10 +1593,6 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SQIPVerificationRequestTypedefs.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			5ErT4R9tTdjzPBNmzJDesRZSnOU=
-			</data>
 			<key>hash2</key>
 			<data>
 			VnXn3ru+Fn5pr4p3r93tQ+5bfonkVG+k+Yh++/4kATY=
@@ -1790,65 +1600,41 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			BP8Z8dpFBWs9X/b60oY76LrumxQ=
-			</data>
 			<key>hash2</key>
 			<data>
-			26tyIa7JVIoGjO6gSevgtdrDG2IO+kS1GZoglR9tFJE=
+			BFAFrmRuhYr5vDEXhVkU4Zqebmsg4wzJ2Bl6V/erMfc=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK-umbrella.h</key>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Headers/SquareBuyerVerificationSDK.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CDfD9imYqpAfTqPCtDz9WfpFuvU=
-			</data>
 			<key>hash2</key>
 			<data>
-			++LjK4M2jx3ixPd6KisKjyTX32D70+7WALTL2/lOado=
+			vzgrkUqfvOakocPVWno3okc9zR/8dKc4QbSmmQ26mZc=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Lssvb5XLDDZ5TPAxJTDtVNhnZFk=
-			</data>
 			<key>hash2</key>
 			<data>
-			UIOrlnhSLmz6ZEoADP/+rtQSzGV3YXoO+PdQC5tGhUA=
+			pmQ4e+AaK7qq78f4fp4FGjJbjiw9senvCs2y46bkr4o=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			OfR2FtzRq3FAguoBbS+QoHuLjp8=
-			</data>
 			<key>hash2</key>
 			<data>
-			h/4LUFgYG0VVT07DjMpjZelu39b9IF+qa7Vv181tlRU=
+			/ti1eJEGZ8SPBt7QoGz4mHue2zRyiufBrmIu+F64Bco=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			+qCGGcQzThL3bIkC0pLp+jpz1Tk=
-			</data>
 			<key>hash2</key>
 			<data>
-			HWfnyQGT1IQkpotwziZSPV5o7N3X+8a6GcfGEPUPdSs=
+			kEBK959EPA4gGbFyQuwe8q5tFEPUACIeudrM4u+rWSE=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/NetceteraSDK-License-Prod.lic</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			btxsCeWAZDaczn6t0eXNWll+O8E=
-			</data>
 			<key>hash2</key>
 			<data>
 			YDd32r2oX4gPLXID7J5pHmAPRJPGaeSwMYZSZPvki4I=
@@ -1856,21 +1642,22 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/acs_simulator_root.crt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			wURzyk4cnrsDAWLSIje7PrnJz2A=
-			</data>
 			<key>hash2</key>
 			<data>
 			uoOfRlCArQ83eDisLcoaqJ+aAJ2GlK0ub6BFFjSRctM=
 			</data>
 		</dict>
-		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en.lproj/Localizable.strings</key>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
-			<key>hash</key>
+			<key>hash2</key>
 			<data>
-			kR0WNpH4BHYFE8qXkNcb0+wi7EY=
+			CkYdorPPS2GIeNyug1ep1/9Q3DfgQYhYdmj6nwmOM9Q=
 			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-AU.lproj/Localizable.strings</key>
+		<dict>
 			<key>hash2</key>
 			<data>
 			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
@@ -1878,12 +1665,89 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en-IE.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UgTFBgjOJK3nRFr/ch7yyl0xFbI96OpLJuk9HgTxGXc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/es-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yODv+l/VUziCV0uvTQaw2HYESMP909p6AmsjQ51lSRE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MMVPe3YHrEvlwG5c6pDFn8KaswWzbAZDi/DFKB/Ovpw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/fr-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LNAAikeYYWjviHdP1PdxlyoH2nF0Qav29YR3rA/pPsA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			J6aGBzKte2w/riMGdShLXWi2A1UQENbbeACEP/gWKCg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E52jkyKLCgo+ZgwJ6V9KvvpyVQhMd2+3HsyWob5TTr4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/NetceteraBridgingResources.bundle/sandbox_encryption.crt</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Nez/Q22Ii1ZJbDcXJT5d6iEtog8=
-			</data>
 			<key>hash2</key>
 			<data>
 			4MdCli5rLdYAcl/VJXGQZ7ADLZgH6VwlhDqsMy3H6Ww=
@@ -1891,24 +1755,16 @@
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/SquareBuyerVerificationSDK</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dlawqmr5xuPUPmjPyyI6egb6d6E=
-			</data>
 			<key>hash2</key>
 			<data>
-			1kih1FCWPuk68ZRbR/4565BG491RIZkDI9TnWhBnxxk=
+			BHc2unWJ0tWSsun5MmETGc6a9jdrUZkX0rWnwd+e6Bw=
 			</data>
 		</dict>
 		<key>ios-arm64_x86_64-simulator/SquareBuyerVerificationSDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			2myurOhJsf9K4lRRHzGA4Qlksa0=
-			</data>
 			<key>hash2</key>
 			<data>
-			7n7ct+KGlRCGlY0vKn7TyVQ47ZeDzLD9k0RCSV8uNbA=
+			6ND4/5MDZpJRA8GQBsccjs/woTOxWJJGU4R3DjmffL4=
 			</data>
 		</dict>
 	</dict>

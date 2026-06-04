@@ -15,13 +15,13 @@
 //
 
 @import Foundation;
-@import UIKit.UIViewController;
+@import UIKit;
 
 @class SQIPVerificationParameters;
 @class SQIPBuyerVerifiedDetails;
 @class SQIPTheme;
 
-#import "SQIPVerificationRequestTypedefs.h"
+#import <SquareBuyerVerificationSDK/SQIPVerificationRequestTypedefs.h>
 
 /**
  Manages the SCA buyer verification flow and returns a verification token for a payment source ID.

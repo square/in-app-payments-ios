@@ -15,7 +15,7 @@
 //    THE SOFTWARE.
 //
 
-#import <Foundation/Foundation.h>
+@import Foundation;
 
 /**
 Indicates a card's type. Such as Credit

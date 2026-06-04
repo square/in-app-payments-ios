@@ -14,7 +14,7 @@
 //    THE SOFTWARE.
 //
 
-#import <Foundation/Foundation.h>
+@import Foundation;
 
 /**
  The `NSError` `userInfo` key used to retrieve a detailed debug code string for the error that occurred.

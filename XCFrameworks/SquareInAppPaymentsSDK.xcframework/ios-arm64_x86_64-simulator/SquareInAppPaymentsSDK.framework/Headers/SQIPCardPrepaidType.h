@@ -16,7 +16,7 @@
 //
 
 
-#import <Foundation/Foundation.h>
+@import Foundation;
 
 /**
  Indicates if a card is prepaid.

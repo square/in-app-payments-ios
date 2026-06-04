@@ -1,0 +1,10 @@
+#import <SquareBuyerVerificationSDK/SQIPVerificationRequestError.h>
+#import <SquareBuyerVerificationSDK/SQIPBuyerAction.h>
+#import <SquareBuyerVerificationSDK/SQIPBuyerVerifiedDetails.h>
+#import <SquareBuyerVerificationSDK/SQIPContact.h>
+#import <SquareBuyerVerificationSDK/SQIPCountry.h>
+#import <SquareBuyerVerificationSDK/SQIPCurrency.h>
+#import <SquareBuyerVerificationSDK/SQIPMoney.h>
+#import <SquareBuyerVerificationSDK/SQIPVerificationParameters.h>
+#import <SquareBuyerVerificationSDK/SQIPVerificationRequestTypedefs.h>
+#import <SquareBuyerVerificationSDK/SQIPBuyerVerificationSDK.h>
