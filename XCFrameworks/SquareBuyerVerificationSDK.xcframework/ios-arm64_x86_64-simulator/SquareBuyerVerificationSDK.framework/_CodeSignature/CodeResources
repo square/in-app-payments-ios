@@ -26,15 +26,15 @@
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/Assets.car</key>
 		<data>
-		KbLJExXFplMOLPtCacOEN71ZDxM=
+		3x2y2SAm2iuBJ7I0OfvvlNNwLE0=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/BrandingZoneView.nib</key>
 		<data>
-		3Y++WH5GzjZCsH2ib5mGCR/TeCA=
+		buHOCVltjr+1YwG8FdIGZHa+9H4=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ButtonsView.nib</key>
 		<data>
-		Hia+/VqH3lnWPiwLdb57ZPIdIlc=
+		Y3CWSkkNKNaveS6GS5ZGKDAXWJo=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/CProcessScreen.nib</key>
 		<data>
@@ -42,11 +42,11 @@
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ChallengeEntryBoxView.nib</key>
 		<data>
-		fNJ/mUJjHofg2lZVxNIKA6YjGgY=
+		FfbpumoIdjKf6Pf/WNU0KPjS86s=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ChallengeInfoView.nib</key>
 		<data>
-		vZwVN0A63szJ8zC1X6mgrtjjRNE=
+		GQPLsNrOTkwiY5xvbd9E8RYsxKw=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ExpandableInfoZoneView.nib</key>
 		<data>
@@ -54,15 +54,11 @@
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ExpandableInformationView.nib</key>
 		<data>
-		a90PIecHjqqWOQ4evxIKaXe+5Qg=
+		1+qBFlaUFRdNr9TibZZKdGtDFYI=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/FooterStackView.nib</key>
 		<data>
 		LEl/+QDrd2i523IJ3mSnDdoFKUE=
-		</data>
-		<key>Frameworks/ThreeDS_SDK.framework/GMEllipticCurveCrypto_LICENSE.txt</key>
-		<data>
-		O+bg8mgBlaL6EWLhW9HOHZ8L2NY=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/GirdersSwift_LICENSE.txt</key>
 		<data>
@@ -70,19 +66,23 @@
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/Info.plist</key>
 		<data>
-		ywkJglFxYgB9ZwMSUWv41rBDcFs=
+		Ee1+FeSf9S+54ka5vMXshQ8VUR4=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/InformationView.nib</key>
 		<data>
-		v5B2iJKizV2kZuDzAh5ka862UUg=
+		Jwo64m+zaN9Wzlt8QOrzgl042ac=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/OobView.nib</key>
 		<data>
 		s5r+cFkbHq1sQjAnAmaivbkkiSM=
 		</data>
+		<key>Frameworks/ThreeDS_SDK.framework/PrivacyInfo.xcprivacy</key>
+		<data>
+		qskfk5qssgV/i1MjhbStTWrvSVs=
+		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ProcessingZoneTextView.nib</key>
 		<data>
-		RApiUq2aeh8buWcgH9jNAud6rLI=
+		glhz8tpe5ZppYyQRxgweF0lr6VQ=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ProgressDialog.nib</key>
 		<data>
@@ -94,23 +94,23 @@
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/SelectView.nib</key>
 		<data>
-		18z0LsDYcWlREUbNRUVdCcEtNmM=
+		11hcCHoXI1uEi9A40YToLFRNUIE=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/SelectionView.nib</key>
 		<data>
-		SWrg4IzIPihySf2L+wJnQWCuCoM=
+		4S+3bWnCX1DxqFvJR3gP0n31USA=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/ThreeDS_SDK</key>
 		<data>
-		X8dLr2QlZ2BpPz1iIVv53PjaoPY=
+		8LFehrq1qWCXtJI+4HWLVHoPzjw=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/WhitelistingZone.nib</key>
 		<data>
-		E2M42cUNyGNTDZ8NzNKjpO6Lj54=
+		5zMQB2XiW4ZcnbMMSexqpX3mp5Y=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/_CodeSignature/CodeResources</key>
 		<data>
-		prcCulx06FTJwrNvBScLxzyjmco=
+		3EivscZpcJkn1i2pr6gB2E5eLsY=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/C4Y-y0-tcs-view-MrG-17-JGv.nib</key>
 		<data>
@@ -118,7 +118,7 @@
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/HTMLChallengeViewController.nib</key>
 		<data>
-		V/5zz174xDzlJcLSU4KSFiEydiw=
+		wdNz3G4lSgWrpEEMl8B8CcR+YMI=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/Info.plist</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/WUm-ax-p1H-view-Hja-72-DgH.nib</key>
 		<data>
-		OOhwP+p+FIyEnoWEz9hXyNUMXB8=
+		ZDzPyzoeOmYIqbFc01+DiwkhPIY=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/challengeVC.nib</key>
 		<data>
-		1N/hvT3kvYr/qDQnzD8jB/dmMYc=
+		u0LLLQIOTDgTta8rNJw4+/aK9Uo=
 		</data>
 		<key>Frameworks/ThreeDS_SDK.framework/checkbox@3x.png</key>
 		<data>
@@ -214,7 +214,7 @@
 		</data>
 		<key>Headers/SquareBuyerVerificationSDK-Swift.h</key>
 		<data>
-		Ol+mIo8s2bJcMyuwrzLG1shOKd0=
+		3C713GixRdWdTVV9HOFtiR+3hm0=
 		</data>
 		<key>Headers/SquareBuyerVerificationSDK.h</key>
 		<data>
@@ -222,7 +222,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		S0s0TQXSlqU+zWePtT/igQCtmjc=
+		bwFez7+DWcB9Eb9fmK5BiY8kpho=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -385,21 +385,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dzEVvD/OAAQGToBAG0A/DfTr//RbnBXWchRGTEIf0nM=
+			ASl+Yo/elVxqt2IjGTHwxr5p/ehVAPaqTOWvuc+LmSU=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/BrandingZoneView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TLoWB1SmEwMQwf7snnn9bEifP2zcfrarPskOgFK4W+Q=
+			yunguZJjDJU13vkf6bpxMsDji2GkWww6lHu9Ji9autI=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/ButtonsView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lit/YvvYMNefpcNEUx5dRvANZ6rMfqZf/L8QC82Sg/c=
+			4asqCsAALKLDRUftybOOagDrFqTowcNzhe4N1RY4G+0=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/CProcessScreen.nib</key>
@@ -413,14 +413,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EL1Hzd+udA/MGv2CBffc0HYWSwULGIa6jNNRIkAa58I=
+			ZEw2cHtklJPIU8/khsmkPX3fb+S+JohIbgJJ2vxP4PI=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/ChallengeInfoView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UsYQJom24WY2DoQIofJKOS0q/Ww/Gb7apSJLpf15Sq4=
+			yrI9yIPvE1P66VdbHcWa1rjNI7Z0SDAW5xqQLD1i08s=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/ExpandableInfoZoneView.nib</key>
@@ -434,7 +434,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPyKOSZA0WyOYTHKUrO70pZLlFKFoR3bJ1fe/yBTAtY=
+			tu5jcGLL8NYHIdu92JURXgyCxZF4+gjP1JfLPgiJjIg=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/FooterStackView.nib</key>
@@ -442,13 +442,6 @@
 			<key>hash2</key>
 			<data>
 			eLxUEfkObjPN5uxvwXRuDsjAXf0zW30hQ0DzbzfRh6s=
-			</data>
-		</dict>
-		<key>Frameworks/ThreeDS_SDK.framework/GMEllipticCurveCrypto_LICENSE.txt</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			gGuQUklxGEnZ2jVPwGCUGLoMjxlVP/XXqgIILyuGGLQ=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/GirdersSwift_LICENSE.txt</key>
@@ -462,14 +455,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lAPtnAHBHb3y7X2+Puiu9EN+NWDl2OqRR3EbTJXVvZo=
+			XNpztPuJArtXNOs48yYdBKm5vJTgs3duNtjHgfCuiZ4=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/InformationView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			op47CjCnNrKBkYUFS5zXpVEaYLRpFdveSJuwjclNH/c=
+			ZyTlLomEViMEJnak0QXPpNfc/8U34SZ9mr2F62rglTA=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/OobView.nib</key>
@@ -479,11 +472,18 @@
 			bUmuD4XE4VRTqDwGpLOiFlfgNUfQpasi/rMTPw91GRg=
 			</data>
 		</dict>
+		<key>Frameworks/ThreeDS_SDK.framework/PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			OYWc9/zlCKA5FiI2RbNeeX93E7g8o1InDM/ek2Ic0uI=
+			</data>
+		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/ProcessingZoneTextView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rAuzhm+i+FHCRsDS1phgTbmBlYPLp/5zxwj32G2QSy8=
+			D3At8xlrh85rEUgkLt6mDbVAcBtdF0cRIBjdO3NKpjs=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/ProgressDialog.nib</key>
@@ -504,35 +504,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hOalQFqdeeGI5ssd5MLQahN93oWWRr/KOieefr+4uhg=
+			5p0n4IjT+J6EHq4BRboV073cwvmLLMuJCbq1NvTYWrQ=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/SelectionView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Fx0Fhm04QrcxkF1vCqsmmfLF3lFQcDkTnXygzDf6Hfg=
+			9tH6f2j0+UZqpzTfccnl1HyRtB9QseCn6yt1L90uWr8=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/ThreeDS_SDK</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YCnSoKWFIt07a7KoPE4tIR9fmv9Stl7KAoXeHI1xuCY=
+			OTQQ2+djDWdv5eT8MPhobwYHcJ3xR8wyrHMCaQFZSf4=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/WhitelistingZone.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BUPMDmUKnEEfMiUb1L+CgRMlLjHOBiTT1VvofQJeZEI=
+			0KM8sk8KohKTK9vJLd43PchE9nZ7U2/Qd99TzChalHE=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jpueg+olpR5dflCHg/GX8O2Rcw9KIcLCcHqUCNAaVWE=
+			2qnXh+yQ4Nf+A4JtJdBnRxtRRrLfMJ1gst7RIrHiZc0=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/C4Y-y0-tcs-view-MrG-17-JGv.nib</key>
@@ -546,7 +546,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			efD2E2zUFivETDv2h/xOwSdIL+2p3Vxlvs5qYg3AqIQ=
+			kChBioAhvF6pnUnsfNFJawbc/BYvrvhR8nCFVh7UCmw=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/Info.plist</key>
@@ -567,14 +567,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6VDvPBTx5dZT393EkRhwpmil9bnLviJgcZ2vd2/I+xs=
+			Zwl5mpFPJMKigrXCiUb/QkxRHXhVlC7+5wG7ypoRMag=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/challengeVC.storyboardc/challengeVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oq6qaXDjSncBSOT/ObR1PWmvf+PpPR22v+MdlE9onwY=
+			qH8xYSILwvWL34Z29CyK5ibByZXz0AMtBBRULFFEtvE=
 			</data>
 		</dict>
 		<key>Frameworks/ThreeDS_SDK.framework/checkbox@3x.png</key>
@@ -714,7 +714,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BFAFrmRuhYr5vDEXhVkU4Zqebmsg4wzJ2Bl6V/erMfc=
+			Kbn53YeaVakU/ZoRtPLiJBYJFTQfEOwcshdJzE6gyd4=
 			</data>
 		</dict>
 		<key>Headers/SquareBuyerVerificationSDK.h</key>
