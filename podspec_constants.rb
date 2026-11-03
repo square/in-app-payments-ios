@@ -1,5 +1,5 @@
 module SquareInAppPaymentsSDK
-  VERSION = '1.6.7'
+  VERSION = '1.7.0'
   LICENSE_TYPE = 'Square Developer License'
   LICENSE_TEXT = <<-LICENSE
 Copyright (c) 2018-present, Square, Inc. All rights reserved.
@@ -21,7 +21,7 @@ THE SOFTWARE.
   # Since this is a binary pod, redirect the Cocoapods.org entry to the github repo.
   HOMEPAGE_URL = 'https://github.com/square/in-app-payments-ios'
   AUTHORS = 'Square'
-  IOS_DEPLOYMENT_TARGET = '12.0'
+  IOS_DEPLOYMENT_TARGET = '17.1'
   CONTAINER_FOLDER_NAME = 'XCFrameworks'
   SOURCE = { :git => "https://github.com/square/in-app-payments-ios.git", :tag => VERSION }
 end

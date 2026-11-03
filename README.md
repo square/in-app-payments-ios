@@ -10,7 +10,7 @@ You can also pair our Square In-App Payments SDK with Square’s [Online Payment
 
 ## Minimum Requirements
 - Xcode 15 
-- iOS 12.0
+- iOS 17.1
 
 ## Installation
 
@@ -40,7 +40,7 @@ Add the following to your top-level `dependencies` block within your `Package.sw
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/square/in-app-payments-ios", .upToNextMajor(from: "1.6.3")),
+    .package(url: "https://github.com/square/in-app-payments-ios", .upToNextMajor(from: "1.7.0")),
 ]
 ```
 
